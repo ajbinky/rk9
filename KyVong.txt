@@ -1,0 +1,29 @@
+KyVong
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-182
+1 Galarian Zigzagoon SSH-117
+2 Arceus & Dialga & Palkia GX CEC-156
+2 Dedenne GX UNB-57
+4 Jirachi TEU-99
+3 Zacian V SSH-211
+1 Phione CEC-57
+
+Trainers
+2 Boss's Orders SHF-58
+4 Metal Saucer SSH-170
+3 Rusted Sword SHF-62
+4 Switch SUM-132
+2 Energy Spinner UNB-170
+1 Pokemon Catcher SSH-175
+4 Quick Ball SSH-179
+3 Marnie CPA-56
+1 Air Balloon SSH-156
+4 Scoop Up Net RCL-165
+3 Professor's Research CPA-62
+3 Energy Switch SUM-117
+
+9 Metal Energy - Basic misc-Metal
+2 Water Energy - Basic misc-Water
+

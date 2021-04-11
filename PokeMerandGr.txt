@@ -1,0 +1,29 @@
+PokeMerandGr
+
+Pokemon
+3 Crobat V DAA-104
+4 Eternatus V DAA-116
+4 Galarian Zigzagoon SSH-117
+3 Hoopa UNM-140
+1 Yveltal TEU-95
+3 Eternatus VMAX DAA-117
+
+Trainers
+3 Marnie CPA-56
+4 Pokemon Communication TEU-152
+1 Pal Pad UPR-132
+1 Ordinary Rod SSH-171
+1 Devolution Spray Z UNB-166
+4 Quick Ball SSH-179
+1 Rose SHF-71
+2 Scoop Up Net RCL-165
+3 Professor's Research CPA-62
+3 Great Ball CPA-52
+2 Rose Tower DAA-169
+3 Boss's Orders SHF-58
+3 Switch SUM-132
+
+6 Darkness Energy - Basic misc-Darkness
+2 Weakness Guard Energy - Special UNM-213
+3 Hiding Darkness Energy - Special DAA-175
+

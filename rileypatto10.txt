@@ -1,0 +1,30 @@
+rileypatto10
+
+Pokemon
+1 Crobat V DAA-104
+1 Naganadel GX UNM-249
+1 Galarian Sirfetch'd V VIV-174
+1 Vileplume GX CEC-4
+2 Boltund V RCL-67
+3 Dedenne GX UNB-195
+2 Pikachu & Zekrom GX TEU-33
+1 Raichu & Alolan Raichu GX UNM-54
+1 Tapu Koko ♢ TEU-51
+3 Mewtwo & Mew GX PR-SM191
+1 Greninja GX PR-SM197
+
+Trainers
+4 Cherish Ball UNM-191
+4 Professor's Research CPA-62
+3 Boss's Orders SHF-58
+1 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+4 Marnie CPA-56
+3 Air Balloon SSH-156
+1 Electromagnetic Radar UNB-169
+2 Reset Stamp UNM-206
+4 Switch SUM-132
+
+9 Lightning Energy - Basic misc-Lightning
+4 Aurora Energy - Special SSH-186
+

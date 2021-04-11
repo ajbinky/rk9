@@ -1,0 +1,26 @@
+Marco43
+
+Pokemon
+1 Cramorant V SSH-198
+1 Crobat V DAA-182
+4 Blacephalon UNB-32
+1 Reshiram & Charizard GX UNB-194
+1 Dedenne GX UNB-195
+4 Jirachi PR-SM161
+1 Zacian V SSH-195
+1 Mewtwo PR-SM214
+1 Oricorio GX CEC-217
+
+Trainers
+2 Energy Retrieval SSH-160
+4 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+4 Fire Crystal UNB-173
+4 Scoop Up Net RCL-165
+2 Great Catcher CEC-192
+1 Boss's Orders SHF-58
+4 Switch SUM-132
+
+16 Fire Energy - Basic misc-Fire
+

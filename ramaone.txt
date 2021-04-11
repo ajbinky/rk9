@@ -1,0 +1,28 @@
+ramaone
+
+Pokemon
+3 Oranguru VIV-199
+1 Crobat V PR-SWSH098
+4 Coalossal V VIV-173
+2 Galarian Sirfetch'd V VIV-174
+4 Coalossal VMAX VIV-189
+1 Dedenne GX UNB-57
+1 Phione CEC-57
+
+Trainers
+3 Crushing Hammer SUM-115
+2 Evolution Incense SSH-163
+3 Professor's Research CPA-62
+1 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+2 Buff Padding TEU-136
+3 Boss's Orders SHF-58
+1 Pokemon Communication TEU-152
+3 Rotom Phone CPA-64
+4 Marnie CPA-56
+4 Switch SUM-132
+2 Air Balloon SSH-156
+
+1 Capture Energy - Special RCL-171
+11 Fighting Energy - Basic misc-Fighting
+

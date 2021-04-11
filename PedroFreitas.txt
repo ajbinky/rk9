@@ -1,0 +1,34 @@
+PedroFreitas
+
+Pokemon
+1 Crobat V DAA-104
+1 Galarian Zigzagoon SSH-117
+1 Dedenne GX UNB-195
+2 Jirachi VIV-119
+3 Dragapult V RCL-92
+1 Giratina UNM-86
+1 Mewtwo PR-SM214
+1 Mimikyu CEC-97
+1 Mimikyu DAA-81
+1 Mimikyu V BST-62
+3 Dragapult VMAX PR-SWSH097
+
+Trainers
+1 Escape Rope BST-125
+4 Pokemon Communication TEU-152
+4 Crushing Hammer SUM-115
+1 Chaotic Swell CEC-187
+2 Reset Stamp UNM-206
+1 Switch SUM-132
+4 Quick Ball SSH-179
+2 Boss's Orders SHF-58
+4 Scoop Up Net RCL-165
+4 Professor's Research CPA-62
+1 Phoebe BST-130
+4 Marnie CPA-56
+1 U-Turn Board UNM-211
+1 Tool Scrapper RCL-168
+
+6 Psychic Energy - Basic misc-Psychic
+4 Horror Psychic Energy - Special RCL-172
+

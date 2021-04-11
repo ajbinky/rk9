@@ -1,0 +1,33 @@
+PokeOni35
+
+Pokemon
+1 Crobat V DAA-104
+1 Incineroar GX TEU-97
+1 Naganadel GX UNM-160
+1 Galarian Sirfetch'd V PR-SWSH043
+1 Reshiram & Charizard GX UNB-20
+1 Volcanion UNB-25
+1 Charizard GX HIF-9
+1 Eldegoss V RCL-19
+1 Vileplume GX CEC-211
+2 Dedenne GX UNB-57
+1 Latios GX UNM-78
+1 Marshadow UNB-81
+3 Mewtwo & Mew GX UNM-222
+1 Greninja GX PR-SM197
+
+Trainers
+4 Cherish Ball UNM-191
+3 Pokegear 3.0 UNB-182
+3 Giant Hearth UNM-197
+2 Boss's Orders SHF-58
+4 Welder UNB-189
+2 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+1 Great Catcher CEC-192
+4 Switch SUM-132
+2 Stealthy Hood UNB-186
+
+10 Fire Energy - Basic misc-Fire
+4 Aurora Energy - Special SSH-186
+

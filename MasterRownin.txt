@@ -1,0 +1,30 @@
+MasterRownin
+
+Pokemon
+2 Dedenne GX UNB-195a
+2 Arceus & Dialga & Palkia GX CEC-156
+3 Zacian V SSH-138
+3 Jirachi TEU-99
+1 Crobat V DAA-104
+1 Galarian Zigzagoon SSH-117
+1 Eldegoss V PR-SWSH084
+1 Mawile BST-100
+1 Empoleon V BST-146
+1 Mawile GX UNM-141
+
+Trainers
+3 Marnie CPA-56
+4 Professor's Research CPA-62
+3 Boss's Orders SHF-58
+1 Chaotic Swell CEC-187
+3 Switch SUM-132
+4 Scoop Up Net RCL-165
+1 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+4 Metal Saucer SSH-170
+4 Energy Switch SUM-117
+2 Energy Spinner UNB-170
+
+3 Water Energy - Basic misc-Water
+8 Metal Energy - Basic misc-Metal
+

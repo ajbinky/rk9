@@ -1,0 +1,33 @@
+El_Pemsel
+
+Pokemon
+1 Type: Null UNM-183
+1 Silvally GX CEC-227
+1 Cramorant V SSH-155
+1 Crobat V DAA-104
+1 Crobat V PR-SWSH098
+1 Heatran GX UNM-216
+3 Centiskorch V DAA-33
+3 Centiskorch VMAX DAA-34
+3 Volcanion UNB-25
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-219
+
+Trainers
+1 Fire Crystal UNB-173
+4 Quick Ball SSH-179
+1 Escape Rope BST-125
+3 Cherish Ball UNM-191
+3 Pokemon Communication TEU-152
+2 Reset Stamp UNM-206
+1 Great Catcher CEC-192
+4 Switch SUM-132
+3 Giant Hearth UNM-197
+2 Boss's Orders SHF-58
+1 Mallow & Lana CEC-198
+4 Welder UNB-189
+1 Big Charm SSH-158
+1 Air Balloon SSH-156
+
+11 Fire Energy - Basic misc-Fire
+

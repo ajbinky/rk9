@@ -1,0 +1,29 @@
+ASURASTARK
+
+Pokemon
+4 Centiskorch V DAA-33
+3 Centiskorch VMAX DAA-34
+1 Dedenne GX UNB-195
+1 Dedenne GX UNB-195a
+1 Crobat V DAA-104
+3 Volcanion UNB-25
+1 Eldegoss V RCL-19
+1 Heatran GX UNM-25
+1 Phione CEC-57
+
+Trainers
+4 Quick Ball SSH-179
+2 Reset Stamp UNM-206
+4 Pokemon Communication TEU-152
+4 Switch SUM-132
+3 Giant Hearth UNM-197
+1 Wondrous Labyrinth ♢ TEU-158
+3 Boss's Orders SHF-58
+4 Welder UNB-189
+2 Big Charm SSH-158
+4 Pokegear 3.0 UNB-182
+2 Professor's Research CPA-62
+
+1 Heat Fire Energy - Special DAA-174
+10 Fire Energy - Basic misc-Fire
+

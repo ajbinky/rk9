@@ -1,0 +1,30 @@
+BelvronChris
+
+Pokemon
+1 Crobat V DAA-104
+1 Eldegoss V RCL-19
+1 Dedenne GX UNB-195
+1 Mimikyu CEC-97
+3 Inteleon V PR-SWSH016
+3 Snom SSH-63
+2 Frosmoth SSH-64
+2 Inteleon VMAX RCL-50
+
+Trainers
+4 Crushing Hammer SUM-115
+2 Evolution Incense SSH-163
+2 Ordinary Rod SSH-171
+2 Team Yell Grunt CPA-67
+4 Quick Ball SSH-179
+2 Pokemon Communication TEU-152
+4 Air Balloon SSH-156
+4 Professor's Research CPA-62
+2 Great Ball CPA-52
+4 Marnie CPA-56
+2 Capacious Bucket RCL-156
+2 Boss's Orders SHF-58
+
+9 Water Energy - Basic misc-Water
+2 Aurora Energy - Special SSH-186
+1 Wash Water Energy - Special VIV-165
+

@@ -1,0 +1,29 @@
+Lmanuel
+
+Pokemon
+1 Cramorant V PR-SWSH086
+1 Crobat V PR-SWSH098
+1 Galarian Zigzagoon SSH-117
+1 Heatran GX UNM-25
+1 Reshiram & Charizard GX PR-SM201
+3 Victini V SSH-25
+3 Victini VMAX BST-22
+1 Eldegoss V PR-SWSH084
+2 Dedenne GX UNB-57
+4 Jirachi PR-SM161
+1 Giratina UNM-86
+1 Oricorio GX CEC-95
+1 Phione CEC-57
+
+Trainers
+4 Pokemon Communication TEU-152
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+2 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+4 Switch SUM-132
+2 Fire Crystal UNB-173
+4 Scoop Up Net RCL-165
+
+12 Fire Energy - Basic misc-Fire
+

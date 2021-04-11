@@ -1,0 +1,31 @@
+BRADSKYL000
+
+Pokemon
+1 Bouffalant BST-118
+1 Terrakion VIV-92
+1 Oranguru VIV-199
+2 Oranguru SSH-148
+2 Dedenne GX UNB-195a
+1 Galarian Sirfetch'd V VIV-174
+3 Coalossal V VIV-98
+3 Coalossal VMAX VIV-99
+
+Trainers
+2 Energy Recycler BST-124
+2 Switch SUM-132
+3 Crushing Hammer SUM-115
+2 Pokemon Communication TEU-152
+1 Escape Rope BST-125
+3 Quick Ball SSH-179
+2 Martial Arts Dojo UNB-179
+2 Boss's Orders SHF-58
+3 Marnie CPA-56
+3 Professor's Research CPA-62
+2 Bea VIV-147
+2 Mallow & Lana CEC-198
+3 Buff Padding TEU-136
+2 Air Balloon SSH-156
+
+4 Stone Fighting Energy - Special VIV-164
+10 Fighting Energy - Basic misc-Fighting
+

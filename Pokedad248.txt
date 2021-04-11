@@ -1,0 +1,30 @@
+Pokedad248
+
+Pokemon
+1 Type: Null UNM-183
+1 Type: Null CEC-183
+2 Silvally GX CEC-184
+2 Crobat V DAA-104
+4 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+2 Volcanion PR-SM179
+3 Centiskorch VMAX DAA-34
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195a
+1 Volcanion UNB-25
+
+Trainers
+2 Cherish Ball UNM-191
+3 Giant Hearth UNM-197
+1 Mallow & Lana CEC-198
+4 Welder UNB-189
+2 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+1 Air Balloon SSH-156
+2 Fire Crystal UNB-173
+4 Switch SUM-132
+3 Pokemon Communication TEU-152
+2 Boss's Orders SHF-58
+
+12 Fire Energy - Basic misc-Fire
+

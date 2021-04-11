@@ -1,0 +1,27 @@
+Strider117
+
+Pokemon
+1 Cramorant V SHF-54
+1 Crobat V DAA-104
+1 Heatran GX UNM-25
+1 Victini V SSH-25
+3 Volcanion PR-SM179
+1 Eldegoss V RCL-19
+3 Dedenne GX UNB-195
+4 Centiskorch V SHF-SV108
+3 Centiskorch VMAX SHF-SV109
+
+Trainers
+4 Pokemon Communication TEU-152
+4 Pokegear 3.0 UNB-182
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+1 Professor's Research CPA-62
+2 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+2 Fire Crystal UNB-173
+2 Reset Stamp UNM-206
+4 Switch SUM-132
+
+12 Fire Energy - Basic misc-Fire
+

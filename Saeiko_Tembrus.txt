@@ -1,0 +1,27 @@
+Saeiko_Tembrus
+
+Pokemon
+1 Cramorant V SSH-155
+2 Crobat V DAA-104
+3 Centiskorch V DAA-33
+3 Volcanion UNB-25
+3 Centiskorch VMAX DAA-34
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-57
+1 Giratina UNM-86
+1 Marshadow UNB-81
+
+Trainers
+4 Pokemon Communication TEU-152
+3 Crushing Hammer SUM-115
+3 Boss's Orders SHF-58
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+3 Switch SUM-132
+4 Quick Ball SSH-179
+2 Fire Crystal UNB-173
+3 Giant Bomb UNM-196
+2 Professor's Research CPA-62
+
+12 Fire Energy - Basic misc-Fire
+

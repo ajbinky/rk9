@@ -1,0 +1,26 @@
+Pkmtrav
+
+Pokemon
+3 Swablu CPA-48
+3 Altaria CPA-49
+3 Croagunk SSH-123
+4 Crobat V SHF-44
+3 Toxicroak SSH-124
+3 Crobat VMAX PR-SWSH099
+1 Mew PR-SM215
+
+Trainers
+4 Crushing Hammer SUM-115
+4 Professor's Research CPA-62
+3 Boss's Orders SHF-58
+4 Marnie CPA-56
+1 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+4 Pokemon Communication TEU-152
+2 Lillie's Poke Doll CEC-197
+3 U-Turn Board UNM-211
+
+2 Capture Energy - Special RCL-171
+6 Darkness Energy - Basic misc-Darkness
+3 Hiding Darkness Energy - Special DAA-175
+

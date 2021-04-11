@@ -1,0 +1,27 @@
+Toulminator
+
+Pokemon
+2 Croagunk SSH-123
+2 Toxicroak SSH-124
+3 Trubbish RCL-117
+2 Garbodor RCL-118
+4 Crobat V DAA-104
+2 Eternatus V PR-SWSH064
+2 Eternatus V DAA-116
+3 Eternatus VMAX DAA-117
+
+Trainers
+3 Pokemon Communication TEU-152
+3 Switch SUM-132
+4 Crushing Hammer SUM-115
+4 Quick Ball SSH-179
+3 Great Ball CPA-52
+1 Ordinary Rod SSH-171
+1 Pokemon Catcher SSH-175
+3 Power Plant UNB-183
+4 Marnie CPA-56
+4 Professor's Research CPA-62
+2 Boss's Orders SHF-58
+
+8 Darkness Energy - Basic misc-Darkness
+

@@ -1,0 +1,30 @@
+JL_muserwolves
+
+Pokemon
+1 Cramorant V SSH-155
+1 Crobat V SHF-44
+1 Heatran GX UNM-25
+1 Ninetales V RCL-26
+1 Reshiram & Charizard GX UNB-20
+3 Victini V SSH-25
+3 Victini VMAX BST-22
+1 Eldegoss V CPA-5
+2 Dedenne GX UNB-57
+3 Jirachi TEU-99
+
+Trainers
+2 Fan of Waves BST-127
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+4 Boss's Orders SHF-58
+1 Fire Crystal UNB-173
+2 Professor's Research CPA-62
+2 Reset Stamp UNM-206
+3 Pokemon Communication TEU-152
+3 Scoop Up Net RCL-165
+4 Switch SUM-132
+
+2 Heat Fire Energy - Special DAA-174
+9 Fire Energy - Basic misc-Fire
+

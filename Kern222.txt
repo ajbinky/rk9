@@ -1,0 +1,34 @@
+Kern222
+
+Pokemon
+1 Snorlax PR-SWSH068
+1 Hoopa UNM-140
+2 Jirachi TEU-99
+1 Mew PR-SM215
+1 Mewtwo PR-SM214
+1 Basculin UNM-43
+1 Phione PR-SM220
+1 Tapu Fini PR-SM203
+4 Rowlet SHF-SV001
+3 Decidueye SHF-SV003
+1 Dartrix SHF-SV002
+1 Galarian Zigzagoon SHF-SV078
+
+Trainers
+1 Marnie CPA-56
+3 Pokemon Communication TEU-152
+4 Rare Candy SUM-129
+2 Ordinary Rod SSH-171
+4 Bird Keeper SHF-66
+4 Quick Ball SSH-179
+1 Boss's Orders SHF-58
+4 Scoop Up Net RCL-165
+4 Rosa CEC-204
+4 Professor's Research CPA-62
+2 Martial Arts Dojo UNB-179
+
+2 Capture Energy - Special RCL-171
+2 Fighting Energy - Basic misc-Fighting
+2 Aromatic Grass Energy - Special VIV-162
+3 Grass Energy - Basic misc-Grass
+

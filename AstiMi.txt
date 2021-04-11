@@ -1,0 +1,32 @@
+AstiMi
+
+Pokemon
+1 Oranguru SSH-148
+1 Dubwool V PR-SWSH049
+3 Galarian Cursola V CPA-71
+2 Mew V DAA-69
+2 Alcremie V CPA-22
+1 Indeedee V SHF-39
+2 Hatterene V PR-SWSH055
+
+Trainers
+4 Team Yell Grunt CPA-67
+2 Marnie CPA-56
+2 Switch SUM-132
+3 Sonia CPA-65
+1 Great Ball CPA-52
+3 Bede CPA-50
+1 U-Turn Board UNM-211
+3 Energy Retrieval SSH-160
+4 Energy Spinner UNB-170
+2 Bird Keeper SHF-66
+2 Pokemon Center Lady CPA-60
+1 Channeler UNM-190
+2 Telescopic Sight VIV-160
+
+12 Psychic Energy - Basic misc-Psychic
+3 Powerful Colorless Energy - Special DAA-176
+1 Capture Energy - Special RCL-171
+1 Draw Energy - Special CEC-209
+1 Weakness Guard Energy - Special UNM-213
+

@@ -1,0 +1,29 @@
+EliteFourCory
+
+Pokemon
+1 Lapras SSH-48
+3 Lapras VMAX SSH-50
+3 Lapras V SSH-49
+1 Snom SHF-29
+2 Snom SSH-63
+2 Frosmoth PR-SWSH007
+1 Mew PR-SM215
+2 Crobat V SHF-44
+2 Dedenne GX UNB-195a
+1 Keldeo GX UNM-219
+
+Trainers
+3 Professor's Research CPA-62
+3 Marnie CPA-56
+2 Air Balloon SSH-156
+2 Switch SUM-132
+4 Capacious Bucket RCL-156
+4 Quick Ball SSH-179
+3 Level Ball BST-129
+2 Pokemon Communication TEU-152
+3 Boss's Orders SHF-58
+1 Big Charm SSH-158
+2 Training Court RCL-169
+
+13 Water Energy - Basic misc-Water
+

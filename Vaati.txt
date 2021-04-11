@@ -1,0 +1,30 @@
+Vaati
+
+Pokemon
+1 Oranguru SSH-148
+2 Galarian Zigzagoon SSH-117
+2 Galarian Obstagoon SSH-119
+4 Rowlet DAA-11
+1 Decidueye CEC-20
+3 Decidueye DAA-13
+4 Jirachi TEU-99
+
+Trainers
+2 Boss's Orders SHF-58
+4 Scoop Up Net RCL-165
+4 Quick Ball SSH-179
+4 Professor's Research CPA-62
+2 Ordinary Rod SSH-171
+3 Marnie CPA-56
+3 Pokemon Communication TEU-152
+2 Rosa CEC-204
+4 Rare Candy SUM-129
+3 Switch SUM-132
+2 Telescopic Sight VIV-160
+1 Turffield Stadium CPA-68
+
+3 Darkness Energy - Basic misc-Darkness
+3 Grass Energy - Basic misc-Grass
+2 Aurora Energy - Special SSH-186
+1 Capture Energy - Special RCL-171
+

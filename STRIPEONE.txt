@@ -1,0 +1,27 @@
+STRIPEONE
+
+Pokemon
+1 Aegislash V VIV-126
+2 Lucario & Melmetal GX PR-SM192
+3 Zacian V PR-SWSH076
+1 Zamazenta V SSH-196
+
+Trainers
+1 Cynthia & Caitlin CEC-189
+3 Marnie CPA-56
+4 Metal Saucer SSH-170
+4 Quick Ball SSH-179
+4 Crushing Hammer SUM-115
+2 Mallow & Lana CEC-198
+4 Metal Goggles TEU-148
+1 Chaotic Swell CEC-187
+1 Tool Scrapper RCL-168
+2 Lillie's Poke Doll CEC-197
+4 Professor's Research CPA-62
+1 Tag Call CEC-206
+3 Boss's Orders SHF-58
+4 Switch SUM-132
+
+4 Coating Metal Energy - Special VIV-163
+11 Metal Energy - Basic misc-Metal
+

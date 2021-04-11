@@ -1,0 +1,29 @@
+Karppi
+
+Pokemon
+1 Crobat V DAA-104
+2 Arceus & Dialga & Palkia GX CEC-258
+1 Eldegoss V RCL-19
+3 Dedenne GX UNB-57
+1 Aegislash V VIV-126
+1 Mawile GX UNM-141
+4 Zacian V PR-SWSH018
+
+Trainers
+3 Cherish Ball UNM-191
+1 Viridian Forest TEU-156
+4 Metal Saucer SSH-170
+2 Rusted Sword SHF-62
+2 Energy Spinner UNB-170
+4 Quick Ball SSH-179
+4 Energy Switch SUM-117
+2 Air Balloon SSH-156
+4 Professor's Research CPA-62
+1 Great Catcher CEC-192
+1 Marnie CPA-56
+4 Boss's Orders SHF-58
+4 Switch SUM-132
+
+8 Metal Energy - Basic misc-Metal
+3 Water Energy - Basic misc-Water
+

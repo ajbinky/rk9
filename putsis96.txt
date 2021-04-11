@@ -1,0 +1,30 @@
+putsis96
+
+Pokemon
+2 Type: Null UNM-183
+2 Silvally GX CEC-184
+2 Crobat V DAA-182
+4 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+2 Volcanion UNB-25
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195
+1 Marshadow UNB-81
+1 Centiskorch VMAX SHF-SV109
+3 Centiskorch VMAX DAA-34
+
+Trainers
+2 Cherish Ball UNM-191
+4 Quick Ball SSH-179
+3 Pokemon Communication TEU-152
+3 Giant Hearth UNM-197
+1 Mallow & Lana CEC-198
+2 Boss's Orders SHF-58
+4 Welder UNB-189
+2 Reset Stamp UNM-206
+1 Air Balloon SSH-156
+1 Fire Crystal UNB-173
+4 Switch SUM-132
+
+12 Fire Energy - Basic misc-Fire
+

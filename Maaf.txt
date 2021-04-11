@@ -1,0 +1,29 @@
+Maaf
+
+Pokemon
+2 Type: Null UNM-183
+2 Silvally GX CEC-184
+1 Crobat V DAA-104
+4 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+2 Volcanion UNB-25
+4 Centiskorch VMAX DAA-34
+1 Eldegoss V RCL-19
+3 Dedenne GX UNB-57
+
+Trainers
+4 Welder UNB-189
+2 Boss's Orders SHF-58
+1 Mallow & Lana CEC-198
+4 Quick Ball SSH-179
+3 Pokemon Communication TEU-152
+3 Cherish Ball UNM-191
+2 Reset Stamp UNM-206
+1 Fire Crystal UNB-173
+1 Air Balloon SSH-156
+3 Giant Hearth UNM-197
+4 Switch SUM-132
+
+11 Fire Energy - Basic misc-Fire
+1 Heat Fire Energy - Special DAA-174
+

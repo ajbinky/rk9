@@ -1,0 +1,28 @@
+Metalpokedad
+
+Pokemon
+3 Croagunk SSH-123
+4 Crobat V DAA-104
+4 Eternatus V DAA-116
+2 Trubbish RCL-117
+2 Garbodor RCL-118
+3 Toxicroak SSH-124
+3 Eternatus VMAX DAA-117
+
+Trainers
+1 Great Catcher CEC-192
+1 Dangerous Drill TEU-138
+4 Marnie CPA-56
+3 Pokemon Communication TEU-152
+3 Evolution Incense SSH-163
+3 Professor's Research CPA-62
+2 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+3 Power Plant UNB-183
+3 Great Ball CPA-52
+4 Switch SUM-132
+
+1 Capture Energy - Special RCL-171
+4 Darkness Energy - Basic misc-Darkness
+3 Hiding Darkness Energy - Special DAA-175
+

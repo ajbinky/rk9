@@ -1,0 +1,29 @@
+Topek13
+
+Pokemon
+4 Drilbur CEC-114
+4 Excadrill CEC-115
+3 Dedenne GX UNB-57
+1 Marshadow UNB-81
+1 Mew UNB-76
+1 Mimikyu CEC-97
+2 Oricorio GX CEC-95
+1 Phione CEC-57
+
+Trainers
+2 Boss's Orders SHF-58
+1 Cherish Ball UNM-191
+1 Marnie CPA-56
+3 Hapu UNM-200
+3 Pal Pad UPR-132
+4 Ordinary Rod SSH-171
+1 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+4 Professor's Research CPA-62
+4 Great Ball CPA-52
+2 Great Catcher CEC-192
+3 Martial Arts Dojo UNB-179
+4 Island Challenge Amulet CEC-194
+
+7 Fighting Energy - Basic misc-Fighting
+

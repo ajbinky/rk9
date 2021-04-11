@@ -1,0 +1,28 @@
+grayfairytail
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-104
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-57
+3 Galarian Meowth RCL-126
+4 Zacian V PR-SWSH018
+1 Zamazenta V SSH-139
+2 Galarian Perrserker PR-SWSH008
+
+Trainers
+3 Boss's Orders SHF-58
+4 Professor's Research CPA-62
+1 Leon VIV-154
+4 Metal Saucer SSH-170
+3 Marnie CPA-56
+4 Quick Ball SSH-179
+3 Rusted Sword SHF-62
+2 Air Balloon SSH-156
+4 Switch SUM-132
+3 Turbo Patch DAA-172
+1 Great Catcher CEC-192
+
+11 Metal Energy - Basic misc-Metal
+2 Coating Metal Energy - Special VIV-163
+

@@ -1,0 +1,31 @@
+Nessulka
+
+Pokemon
+1 Crobat V DAA-182
+1 Crobat V SHF-44
+1 Galarian Zigzagoon SSH-117
+1 Centiskorch V SHF-SV108
+2 Centiskorch V DAA-179
+3 Centiskorch VMAX DAA-191
+1 Reshiram & Charizard GX PR-SM201
+2 Volcanion UNB-25
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195a
+3 Jirachi TEU-99
+1 Giratina UNM-86
+1 Phione PR-SM220
+
+Trainers
+2 Fire Crystal UNB-173
+1 Great Catcher CEC-192
+4 Pokemon Communication TEU-152
+4 Quick Ball SSH-179
+1 Reset Stamp UNM-206
+4 Scoop Up Net RCL-165
+4 Switch SUM-132
+3 Giant Hearth UNM-197
+2 Boss's Orders SHF-58
+4 Welder UNB-189
+
+11 Fire Energy - Basic misc-Fire
+

@@ -1,0 +1,30 @@
+Gemo89
+
+Pokemon
+1 Eldegoss V RCL-176
+1 Kricketune V BST-6
+1 Dedenne GX UNB-57
+1 Mew UNB-76
+3 Lapras V SSH-49
+3 Lapras VMAX SSH-50
+2 Snom SSH-63
+2 Frosmoth SSH-64
+1 Crobat V SHF-44
+1 Keldeo GX UNM-47
+1 Jirachi TEU-99
+
+Trainers
+2 Switch SUM-132
+4 Pokemon Communication TEU-152
+2 Level Ball BST-129
+4 Quick Ball SSH-179
+2 Training Court RCL-169
+2 Nessa VIV-157
+3 Professor's Research CPA-62
+3 Boss's Orders SHF-58
+3 Marnie CPA-56
+2 Air Balloon SSH-156
+4 Capacious Bucket RCL-156
+
+12 Water Energy - Basic misc-Water
+

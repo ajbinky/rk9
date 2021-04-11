@@ -1,0 +1,30 @@
+WarriorX60
+
+Pokemon
+4 Togekiss V VIV-178
+3 Togekiss VMAX VIV-141
+1 Crobat V DAA-104
+1 Aegislash V VIV-126
+2 Bronzor TEU-100
+2 Zacian V SSH-195
+1 Zamazenta V SSH-139
+2 Bronzong BST-102
+1 Mew UNB-76
+
+Trainers
+4 Metal Saucer SSH-170
+2 Pokemon Communication TEU-152
+1 Pal Pad UPR-132
+2 Cheryl BST-123
+2 Boss's Orders SHF-58
+1 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+3 Power Plant UNB-183
+3 Professor's Research CPA-62
+2 Great Ball CPA-52
+4 Marnie CPA-56
+4 Switch SUM-132
+
+3 Capture Energy - Special RCL-171
+8 Metal Energy - Basic misc-Metal
+

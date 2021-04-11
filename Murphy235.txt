@@ -1,0 +1,31 @@
+Murphy235
+
+Pokemon
+1 Crobat V DAA-182
+1 Galarian Zigzagoon SSH-117
+1 Incineroar GX TEU-97
+1 Naganadel GX UNM-230
+1 Reshiram & Charizard GX UNB-20
+1 Victini V SSH-25
+1 Charizard GX PR-SM211
+1 Eldegoss V RCL-19
+3 Dedenne GX UNB-195
+1 Espeon & Deoxys GX UNM-72
+1 Indeedee V SSH-192
+4 Mewtwo & Mew GX PR-SM191
+1 Muk & Alolan Muk GX UNB-196
+
+Trainers
+4 Cherish Ball UNM-191
+4 Pokegear 3.0 UNB-182
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+1 Air Balloon SSH-156
+2 Big Charm SSH-158
+2 Boss's Orders SHF-58
+4 Switch SUM-132
+
+10 Fire Energy - Basic misc-Fire
+4 Aurora Energy - Special SSH-186
+

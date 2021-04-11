@@ -1,0 +1,34 @@
+Kueki
+
+Pokemon
+1 Volcanion UNB-25
+3 Scorbunny SSH-31
+2 Raboot SSH-33
+2 Cinderace SSH-34
+1 Cinderace SSH-36
+1 Sizzlipede SSH-38
+1 Centiskorch SSH-39
+1 Cramorant V SSH-155
+3 Salamence V DAA-143
+3 Salamence VMAX DAA-144
+
+Trainers
+2 Evolution Incense SSH-163
+2 Pokemon Catcher SSH-175
+3 Crushing Hammer SUM-115
+2 Rare Candy SUM-129
+1 Dan RCL-158
+3 Skyla SHF-72
+1 Rose SHF-71
+2 Pokemon Breeder's Nurturing DAA-166
+1 Welder UNB-189
+1 Professor's Research CPA-62
+1 Dragonium Z: Dragon Claw CEC-190
+1 Lucky Egg SSH-167
+
+3 Triple Acceleration Energy - Special UNB-190
+1 Heat Fire Energy - Special DAA-174
+3 Powerful Colorless Energy - Special DAA-176
+1 Draw Energy - Special CEC-209
+14 Fire Energy - Basic misc-Fire
+

@@ -1,0 +1,26 @@
+Nightmarecity
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-104
+1 Dedenne GX UNB-195
+2 Galarian Meowth RCL-126
+4 Zacian V SSH-138
+2 Zamazenta V PR-SWSH019
+2 Galarian Perrserker SSH-128
+
+Trainers
+4 Metal Saucer SSH-170
+3 Rusted Sword SHF-62
+4 Switch SUM-132
+4 Quick Ball SSH-179
+1 Tool Scrapper RCL-168
+2 Air Balloon SSH-156
+4 Turbo Patch DAA-172
+4 Professor's Research CPA-62
+1 Great Catcher CEC-192
+4 Marnie CPA-56
+3 Boss's Orders SHF-58
+
+13 Metal Energy - Basic misc-Metal
+

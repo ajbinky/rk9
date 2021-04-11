@@ -1,0 +1,31 @@
+Mewpip
+
+Pokemon
+1 Crobat V PR-SWSH098
+1 Heatran GX UNM-216
+1 Reshiram & Charizard GX UNB-217
+2 Volcanion PR-SM179
+1 Eldegoss V PR-SWSH084
+1 Kricketune V BST-142
+2 Dedenne GX UNB-195
+3 Jirachi PR-SM161
+1 Giratina UNM-86
+3 Centiskorch V SHF-SV108
+3 Centiskorch VMAX SHF-SV109
+1 Galarian Zigzagoon SHF-SV078
+
+Trainers
+3 Pokemon Communication TEU-152
+2 Boss's Orders SHF-58
+3 Giant Hearth UNM-197
+4 Switch SUM-132
+4 Welder UNB-189
+1 Mallow & Lana CEC-198
+1 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+2 Fire Crystal UNB-173
+4 Scoop Up Net RCL-165
+1 Tool Jammer BST-136
+
+11 Fire Energy - Basic misc-Fire
+

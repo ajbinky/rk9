@@ -1,0 +1,32 @@
+blackgardian
+
+Pokemon
+1 Crobat V DAA-182
+1 Eldegoss V RCL-19
+1 Dedenne GX UNB-195
+3 Galarian Darmanitan V VIV-36
+2 Snom SSH-63
+1 Keldeo GX UNM-219
+2 Sobble SSH-55
+2 Drizzile SSH-56
+2 Frosmoth RCL-204
+2 Inteleon SSH-58
+3 Galarian Darmanitan VMAX VIV-37
+
+Trainers
+1 Nessa VIV-157
+3 Marnie CPA-56
+4 Quick Ball SSH-179
+1 Tool Scrapper RCL-168
+2 Evolution Incense SSH-163
+3 Professor's Research CPA-62
+1 Chaotic Swell CEC-187
+2 Capacious Bucket RCL-156
+2 Telescopic Sight VIV-160
+3 Boss's Orders SHF-58
+3 Level Ball BST-129
+2 Escape Rope BST-125
+2 Switch SUM-132
+
+11 Water Energy - Basic misc-Water
+

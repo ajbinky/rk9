@@ -1,0 +1,25 @@
+Lorenzvader
+
+Pokemon
+1 Cramorant V SSH-155
+4 Blacephalon UNB-32
+2 Dedenne GX UNB-195
+3 Jirachi TEU-99
+1 Marshadow UNB-81
+1 Mewtwo UNB-75
+1 Oricorio GX CEC-255
+
+Trainers
+4 Giant Hearth UNM-197
+4 Welder UNB-189
+3 Quick Ball SSH-179
+4 Fire Crystal UNB-173
+3 Scoop Up Net RCL-165
+2 Great Ball CPA-52
+2 Energy Retrieval SSH-160
+2 Boss's Orders SHF-58
+4 Switch SUM-132
+1 Ordinary Rod SSH-171
+
+18 Fire Energy - Basic misc-Fire
+

@@ -1,0 +1,30 @@
+Jimmycheez
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-104
+2 Arceus & Dialga & Palkia GX CEC-156
+3 Dedenne GX UNB-195
+1 Mawile GX UNM-141
+4 Zacian V SSH-138
+1 Aegislash V VIV-126
+
+Trainers
+3 Switch SUM-132
+4 Cherish Ball UNM-191
+2 Viridian Forest TEU-156
+4 Metal Saucer SSH-170
+1 Energy Spinner UNB-170
+4 Quick Ball SSH-179
+2 Air Balloon SSH-156
+4 Professor's Research CPA-62
+4 Energy Switch SUM-117
+1 Great Catcher CEC-192
+1 Marnie CPA-56
+1 Tool Scrapper RCL-168
+4 Boss's Orders SHF-58
+1 Rusted Sword SHF-62
+
+2 Water Energy - Basic misc-Water
+9 Metal Energy - Basic misc-Metal
+

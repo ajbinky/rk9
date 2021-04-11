@@ -1,0 +1,28 @@
+du5k_
+
+Pokemon
+1 Cramorant V SSH-155
+1 Crobat V DAA-104
+3 Blacephalon UNB-32
+1 Ninetales V RCL-26
+1 Dedenne GX UNB-195
+3 Jirachi TEU-99
+1 Zacian V PR-SWSH018
+1 Mewtwo UNB-75
+1 Oricorio GX CEC-95
+
+Trainers
+2 Great Ball CPA-52
+4 Switch SUM-132
+2 Energy Retrieval SSH-160
+1 Ordinary Rod SSH-171
+4 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+4 Fire Crystal UNB-173
+4 Scoop Up Net RCL-165
+1 Boss's Orders SHF-58
+
+16 Fire Energy - Basic misc-Fire
+1 Aurora Energy - Special SSH-186
+

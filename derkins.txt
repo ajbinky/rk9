@@ -1,0 +1,27 @@
+derkins
+
+Pokemon
+2 Crobat V SHF-44
+1 Heatran GX UNM-25
+3 Centiskorch V DAA-33
+2 Victini V SSH-25
+3 Volcanion UNB-25
+2 Centiskorch VMAX DAA-34
+2 Victini VMAX BST-22
+1 Eldegoss V CPA-5
+2 Dedenne GX UNB-57
+
+Trainers
+1 Fan of Waves BST-127
+4 Pokemon Communication TEU-152
+3 Pokegear 3.0 UNB-182
+4 Switch SUM-132
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+2 Escape Rope BST-125
+2 Fire Crystal UNB-173
+4 Boss's Orders SHF-58
+
+11 Fire Energy - Basic misc-Fire
+

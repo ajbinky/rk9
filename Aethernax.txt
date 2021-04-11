@@ -1,0 +1,30 @@
+Aethernax
+
+Pokemon
+1 Crobat V DAA-182
+1 Heatran GX UNM-216
+1 Reshiram & Charizard GX UNB-194
+4 Victini V SSH-25
+2 Vulpix SSH-22
+2 Ninetales TEU-16
+3 Victini VMAX BST-22
+1 Eldegoss V RCL-176
+2 Dedenne GX UNB-219
+1 Mew UNB-76
+
+Trainers
+2 Switch SUM-132
+2 Fan of Waves BST-127
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+2 Escape Rope BST-125
+2 Boss's Orders SHF-58
+2 Air Balloon SSH-156
+2 Fire Crystal UNB-173
+2 Professor's Research CPA-62
+4 Pokemon Communication TEU-152
+2 Pokegear 3.0 UNB-182
+
+11 Fire Energy - Basic misc-Fire
+

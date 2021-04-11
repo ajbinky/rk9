@@ -1,0 +1,35 @@
+EM-isthmus
+
+Pokemon
+1 Crobat V PR-SWSH098
+2 Reshiram & Zekrom GX CEC-259
+1 Heatran GX UNM-25
+1 Torkoal V SSH-188
+3 Victini V SSH-25
+2 Victini VMAX BST-22
+1 Eldegoss V PR-SWSH084
+2 Dedenne GX UNB-195
+1 Tapu Koko ♢ TEU-51
+1 Marshadow UNB-81
+1 Mew UNB-76
+1 Mewtwo & Mew GX PR-SM191
+
+Trainers
+1 Escape Rope BST-125
+2 Cherish Ball UNM-191
+4 Quick Ball SSH-179
+1 Big Charm SSH-158
+2 Pokemon Communication TEU-152
+2 Giant Hearth UNM-197
+4 Welder UNB-189
+2 Marnie CPA-56
+2 Boss's Orders SHF-58
+1 Fire Crystal UNB-173
+3 Switch SUM-132
+1 N's Resolve CEC-200
+1 Air Balloon SSH-156
+1 Phoebe BST-130
+
+10 Fire Energy - Basic misc-Fire
+6 Lightning Energy - Basic misc-Lightning
+

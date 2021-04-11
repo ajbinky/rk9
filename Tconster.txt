@@ -1,0 +1,33 @@
+Tconster
+
+Pokemon
+1 Cramorant V SSH-155
+1 Crobat V DAA-104
+3 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+1 Victini V SSH-25
+3 Volcanion UNB-25
+1 Eldegoss V RCL-19
+1 Oricorio GX CEC-95
+1 Phione CEC-57
+1 Dedenne GX UNB-57
+1 Dedenne GX UNB-195a
+1 Centiskorch VMAX DAA-34
+2 Centiskorch VMAX DAA-191
+
+Trainers
+4 Pokemon Communication TEU-152
+3 Pokegear 3.0 UNB-182
+3 Giant Hearth UNM-197
+2 Boss's Orders SHF-58
+4 Welder UNB-189
+4 Quick Ball SSH-179
+1 Wondrous Labyrinth ♢ TEU-158
+2 Fire Crystal UNB-173
+2 Reset Stamp UNM-206
+1 Burning Scarf RCL-155
+4 Switch SUM-132
+
+1 Heat Fire Energy - Special DAA-174
+11 Fire Energy - Basic misc-Fire
+

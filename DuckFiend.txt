@@ -1,0 +1,33 @@
+DuckFiend
+
+Pokemon
+1 Dragapult V PR-SWSH096
+3 Dragapult V RCL-92
+1 Dragapult VMAX PR-SWSH097
+1 Dragapult VMAX RCL-93
+1 Dragapult VMAX RCL-197
+1 Blacephalon CEC-104
+1 Omastar TEU-76
+
+Trainers
+2 Fan of Waves BST-127
+2 Reset Stamp UNM-206
+4 Pokegear 3.0 UNB-182
+1 Switch SUM-132
+1 Unidentified Fossil UPR-134
+1 Tool Scrapper RCL-168
+2 Energy Spinner UNB-170
+1 Quick Ball SSH-179
+4 Crushing Hammer SUM-115
+1 Rare Candy SUM-129
+2 Evolution Incense SSH-163
+3 Power Plant UNB-183
+2 Boss's Orders SHF-58
+2 Bill's Analysis TEU-133
+4 Green's Exploration UNB-175
+4 Professor's Research CPA-62
+2 Exp. Share BST-126
+
+4 Horror Psychic Energy - Special RCL-172
+9 Psychic Energy - Basic misc-Psychic
+

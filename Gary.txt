@@ -1,0 +1,32 @@
+Gary
+
+Pokemon
+2 Crobat V DAA-104
+1 Eldegoss V CPA-5
+2 Dedenne GX UNB-219
+1 Lapras TEU-31
+3 Lapras V SSH-49
+3 Snom SSH-63
+1 Suicune DAA-37
+3 Frosmoth SSH-64
+2 Lapras VMAX SSH-50
+
+Trainers
+1 Nessa VIV-157
+2 Energy Retrieval SSH-160
+2 Pokemon Communication TEU-152
+2 Evolution Incense SSH-163
+2 Training Court RCL-169
+1 Ordinary Rod SSH-171
+1 Erika's Hospitality TEU-140
+3 Capacious Bucket RCL-156
+4 Quick Ball SSH-179
+2 Marnie CPA-56
+2 Air Balloon SSH-156
+4 Professor's Research CPA-62
+2 Boss's Orders SHF-58
+2 Switch SUM-132
+
+10 Water Energy - Basic misc-Water
+2 Weakness Guard Energy - Special UNM-213
+

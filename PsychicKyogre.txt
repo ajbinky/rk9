@@ -1,0 +1,34 @@
+PsychicKyogre
+
+Pokemon
+1 Crobat V DAA-104
+2 Arceus & Dialga & Palkia GX CEC-156
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-57
+1 Cobalion GX TEU-106
+1 Keldeo GX UNM-47
+2 Lapras V SSH-49
+2 Snom SSH-63
+2 Frosmoth SSH-64
+2 Lapras VMAX SSH-50
+
+Trainers
+3 Boss's Orders SHF-58
+2 Cherish Ball UNM-191
+1 Nessa VIV-157
+2 Pokemon Communication TEU-152
+2 Evolution Incense SSH-163
+2 Air Balloon SSH-156
+2 Training Court RCL-169
+3 Energy Spinner UNB-170
+4 Quick Ball SSH-179
+1 Giovanni's Exile UNB-174
+2 Professor's Research CPA-62
+1 Great Catcher CEC-192
+3 Energy Switch SUM-117
+3 Marnie CPA-56
+2 Switch SUM-132
+
+3 Metal Energy - Basic misc-Metal
+8 Water Energy - Basic misc-Water
+

@@ -1,0 +1,34 @@
+alexadt96
+
+Pokemon
+1 Vileplume GX CEC-4
+1 Greninja GX PR-SM197
+1 Naganadel GX UNM-160
+1 Pikachu & Zekrom GX TEU-33
+1 Tapu Koko ♢ TEU-51
+1 Dedenne GX UNB-195
+2 Dedenne GX UNB-195a
+1 Reshiram & Charizard GX UNB-20
+2 Mewtwo & Mew GX UNM-71
+1 Latios GX UNM-78
+1 Eldegoss V RCL-176
+2 Boltund V RCL-67
+1 Vikavolt V DAA-60
+1 Crobat V DAA-182
+1 Raichu & Alolan Raichu GX UNM-54
+
+Trainers
+4 Switch SUM-132
+2 Reset Stamp UNM-206
+1 Electromagnetic Radar UNB-169
+4 Quick Ball SSH-179
+3 Cherish Ball UNM-191
+1 Chaotic Swell CEC-187
+4 Professor's Research CPA-62
+4 Marnie CPA-56
+3 Boss's Orders SHF-58
+2 Air Balloon SSH-156
+
+4 Aurora Energy - Special SSH-186
+10 Lightning Energy - Basic misc-Lightning
+

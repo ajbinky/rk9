@@ -1,0 +1,32 @@
+pandinugget
+
+Pokemon
+1 Cramorant V PR-SWSH086
+1 Crobat V PR-SWSH098
+2 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+2 Victini V SSH-25
+1 Victini V BST-21
+2 Volcanion UNB-25
+2 Victini VMAX BST-22
+1 Eldegoss V PR-SWSH084
+2 Dedenne GX UNB-195
+1 Mew UNB-76
+2 Centiskorch VMAX SHF-SV109
+
+Trainers
+3 Boss's Orders SHF-58
+1 Fan of Waves BST-127
+4 Quick Ball SSH-179
+1 Giant Hearth UNM-197
+4 Pokemon Communication TEU-152
+4 Pokegear 3.0 UNB-182
+2 Giant Hearth UNM-197
+4 Welder UNB-189
+2 Escape Rope BST-125
+2 Fire Crystal UNB-173
+2 Marnie CPA-56
+2 Switch SUM-132
+
+11 Fire Energy - Basic misc-Fire
+

@@ -1,0 +1,29 @@
+NintenBro64
+
+Pokemon
+3 Dragapult V RCL-92
+3 Dragapult VMAX RCL-93
+2 Rapid Strike Urshifu V BST-87
+2 Rapid Strike Urshifu VMAX BST-88
+2 Remoraid BST-36
+2 Octillery BST-37
+2 Crobat V DAA-182
+
+Trainers
+4 Marnie CPA-56
+3 Boss's Orders SHF-58
+4 Professor's Research CPA-62
+1 Korrina's Focus BST-128
+4 Quick Ball SSH-179
+4 Pokemon Communication TEU-152
+3 Switch SUM-132
+2 Escape Rope BST-125
+1 Fan of Waves BST-127
+2 Exp. Share BST-126
+2 Air Balloon SSH-156
+2 Power Plant UNB-183
+
+4 Psychic Energy - Basic misc-Psychic
+4 Horror Psychic Energy - Special RCL-172
+4 Rapid Strike Energy - Special BST-140
+

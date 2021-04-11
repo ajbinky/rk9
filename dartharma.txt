@@ -1,0 +1,31 @@
+dartharma
+
+Pokemon
+1 Cramorant V SHF-54
+2 Crobat V SHF-44
+1 Heatran GX UNM-25
+1 Talonflame V VIV-29
+2 Victini V SSH-25
+2 Volcanion UNB-25
+2 Victini VMAX BST-22
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-57
+1 Mew UNB-76
+
+Trainers
+4 Boss's Orders SHF-58
+3 Welder UNB-189
+2 Professor's Research CPA-62
+4 Pokegear 3.0 UNB-182
+4 Quick Ball SSH-179
+3 Switch SUM-132
+3 Pokemon Communication TEU-152
+2 Escape Rope BST-125
+1 Fan of Waves BST-127
+1 Fire Crystal UNB-173
+2 Air Balloon SSH-156
+3 Giant Hearth UNM-197
+1 Ordinary Rod SSH-171
+
+12 Fire Energy - Basic misc-Fire
+

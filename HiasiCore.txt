@@ -1,0 +1,25 @@
+HiasiCore
+
+Pokemon
+4 Eternatus V DAA-116
+4 Galarian Zigzagoon SSH-117
+4 Crobat V DAA-182
+2 Yveltal TEU-95
+1 Sableye V SSH-120
+3 Eternatus VMAX DAA-117
+
+Trainers
+2 Marnie CPA-56
+4 Quick Ball SSH-179
+3 Pokemon Communication TEU-152
+4 Crushing Hammer SUM-115
+2 Piers CPA-58
+3 Professor's Research CPA-62
+4 Great Ball CPA-52
+4 Boss's Orders SHF-58
+4 Switch SUM-132
+
+1 Capture Energy - Special RCL-171
+2 Hiding Darkness Energy - Special DAA-175
+9 Darkness Energy - Basic misc-Darkness
+

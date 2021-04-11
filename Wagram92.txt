@@ -1,0 +1,29 @@
+Wagram92
+
+Pokemon
+2 Type: Null UNM-183
+2 Silvally GX CEC-184
+1 Crobat V DAA-104
+1 Heatran GX UNM-25
+4 Centiskorch V DAA-179
+3 Volcanion UNB-25
+3 Centiskorch VMAX DAA-34
+1 Eldegoss V CPA-5
+2 Dedenne GX UNB-195
+
+Trainers
+3 Cherish Ball UNM-191
+1 Fan of Waves BST-127
+3 Pokemon Communication TEU-152
+3 Giant Hearth UNM-197
+1 Mallow & Lana CEC-198
+2 Boss's Orders SHF-58
+4 Welder UNB-189
+2 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+1 Air Balloon SSH-156
+2 Fire Crystal UNB-173
+4 Switch SUM-132
+
+11 Fire Energy - Basic misc-Fire
+

@@ -1,0 +1,29 @@
+BaconBrudda
+
+Pokemon
+1 Porygon UNB-154
+2 Porygon UNB-155
+3 Porygon-Z UNB-157
+2 Crobat V DAA-182
+3 Cottonee UNM-143
+3 Whimsicott GX UNB-226
+1 Eldegoss V RCL-19
+1 Dedenne GX UNB-195
+1 Zacian V SSH-195
+
+Trainers
+3 Boss's Orders SHF-58
+3 Marnie CPA-56
+4 Quick Ball SSH-179
+4 Rare Candy SUM-129
+1 Wondrous Labyrinth ♢ TEU-158
+3 Professor's Research CPA-62
+3 Great Ball CPA-52
+3 Evolution Incense SSH-163
+
+3 Fairy Energy - Basic misc-Fairy
+4 Recycle Energy - Special UNM-212
+4 Capture Energy - Special RCL-171
+4 Aurora Energy - Special SSH-186
+4 Triple Acceleration Energy - Special UNB-190
+

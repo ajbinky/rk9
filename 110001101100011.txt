@@ -1,0 +1,27 @@
+110001101100011
+
+Pokemon
+2 Cramorant V SSH-155
+1 Crobat V DAA-104
+4 Blacephalon UNB-32
+1 Dedenne GX UNB-57
+4 Jirachi TEU-99
+1 Zacian V SSH-211
+1 Mewtwo UNB-75
+1 Oricorio GX CEC-95
+
+Trainers
+4 Quick Ball SSH-179
+1 Giant Hearth UNM-197
+4 Switch SUM-132
+1 Energy Retrieval SSH-160
+1 Boss's Orders SHF-58
+2 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Fire Crystal UNB-173
+2 Great Ball CPA-52
+1 Telescopic Sight VIV-160
+4 Scoop Up Net RCL-165
+
+17 Fire Energy - Basic misc-Fire
+

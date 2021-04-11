@@ -1,0 +1,29 @@
+lukas-blu
+
+Pokemon
+1 Dedenne GX UNB-195
+3 Jirachi TEU-99
+1 Blastoise & Piplup GX CEC-38
+1 Keldeo GX UNM-47
+3 Lapras V SSH-49
+2 Snom SSH-63
+1 Snom SHF-29
+2 Frosmoth SSH-64
+3 Lapras VMAX SSH-203
+
+Trainers
+1 Pokemon Breeder's Nurturing DAA-166
+4 Pokemon Communication TEU-152
+2 Energy Retrieval SSH-160
+1 Training Court RCL-169
+4 Quick Ball SSH-179
+4 Scoop Up Net RCL-165
+4 Professor's Research CPA-62
+2 Marnie CPA-56
+3 Capacious Bucket RCL-156
+2 Boss's Orders SHF-58
+4 Switch SUM-132
+
+10 Water Energy - Basic misc-Water
+2 Capture Energy - Special RCL-171
+

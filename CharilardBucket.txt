@@ -1,0 +1,29 @@
+CharilardBucket
+
+Pokemon
+1 Oranguru SSH-148
+4 Falinks RCL-109
+4 Litwick UNM-27
+4 Lampent RCL-32
+2 Ninetales TEU-16
+4 Chandelure UNM-30
+2 Incineroar UNB-29
+2 Eldegoss V CPA-5
+1 Oricorio GX CEC-255
+4 Sobble SSH-55
+4 Drizzile SSH-56
+4 Inteleon SSH-58
+4 Gossifleur SSH-20
+
+Trainers
+1 Brock's Grit TEU-135
+1 Giant Hearth UNM-197
+1 Dusk Stone UNB-167
+1 Boss's Orders SHF-58
+4 Pokemon Communication TEU-152
+1 Fire Crystal UNB-173
+3 Rosa CEC-204
+2 Rare Candy SUM-129
+
+6 Fire Energy - Basic misc-Fire
+

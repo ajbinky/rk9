@@ -1,0 +1,28 @@
+InsomniaGames
+
+Pokemon
+2 Oranguru VIV-199
+2 Snorlax PR-SWSH068
+1 Crobat V DAA-182
+4 Coalossal V VIV-98
+1 Galarian Sirfetch'd V PR-SWSH043
+3 Coalossal VMAX VIV-99
+1 Dedenne GX UNB-219
+1 Phione CEC-57
+
+Trainers
+3 Marnie CPA-56
+2 Buff Padding TEU-136
+3 Pokemon Communication TEU-152
+4 Crushing Hammer SUM-115
+1 Air Balloon SSH-156
+4 Rotom Phone CPA-64
+1 Mallow & Lana CEC-198
+4 Professor's Research CPA-62
+3 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+4 Switch SUM-132
+
+8 Fighting Energy - Basic misc-Fighting
+4 Stone Fighting Energy - Special VIV-164
+

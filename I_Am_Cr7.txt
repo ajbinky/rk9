@@ -1,0 +1,28 @@
+I_Am_Cr7
+
+Pokemon
+1 Crobat V DAA-182
+2 Arceus & Dialga & Palkia GX CEC-221
+1 Eldegoss V PR-SWSH084
+3 Dedenne GX UNB-195
+1 Mawile GX UNM-227
+4 Zacian V PR-SWSH076
+1 Zamazenta V PR-SWSH077
+
+Trainers
+4 Energy Switch SUM-117
+4 Big Charm SSH-158
+4 Metal Saucer SSH-170
+1 Rusted Sword SHF-62
+2 Energy Spinner UNB-170
+4 Switch SUM-132
+2 Marnie CPA-56
+1 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+2 Cherish Ball UNM-191
+4 Professor's Research CPA-62
+4 Boss's Orders SHF-58
+
+8 Metal Energy - Basic misc-Metal
+3 Water Energy - Basic misc-Water
+

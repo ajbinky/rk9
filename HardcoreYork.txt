@@ -1,0 +1,33 @@
+HardcoreYork
+
+Pokemon
+1 Heatran GX UNM-216
+1 Reshiram & Charizard GX UNB-20
+3 Victini V SSH-25
+1 Volcanion PR-SM179
+1 Charizard GX HIF-9
+2 Victini VMAX BST-22
+1 Eldegoss V RCL-19
+1 Kricketune V BST-6
+2 Dedenne GX UNB-195
+1 Marshadow UNB-81
+1 Mew PR-SM215
+2 Mewtwo & Mew GX UNM-222
+
+Trainers
+1 Fan of Waves BST-127
+4 Pokemon Communication TEU-152
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+2 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+1 Escape Rope BST-125
+3 Boss's Orders SHF-58
+2 Air Balloon SSH-156
+1 Fire Crystal UNB-173
+3 Pokegear 3.0 UNB-182
+1 Professor's Research CPA-62
+3 Switch SUM-132
+
+11 Fire Energy - Basic misc-Fire
+

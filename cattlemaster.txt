@@ -1,0 +1,29 @@
+cattlemaster
+
+Pokemon
+1 Crobat V DAA-104
+2 Arceus & Dialga & Palkia GX CEC-156
+1 Eldegoss V RCL-19
+3 Dedenne GX UNB-195
+2 Mawile GX UNM-141
+4 Zacian V SSH-211
+1 Empoleon V BST-146
+
+Trainers
+4 Escape Rope BST-125
+4 Boss's Orders SHF-58
+3 Cherish Ball UNM-191
+4 Metal Saucer SSH-170
+1 Rusted Sword SHF-62
+2 Energy Spinner UNB-170
+1 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+2 Air Balloon SSH-156
+4 Professor's Research CPA-62
+4 Energy Switch SUM-117
+1 Great Catcher CEC-192
+1 Marnie CPA-56
+
+3 Water Energy - Basic misc-Water
+8 Metal Energy - Basic misc-Metal
+

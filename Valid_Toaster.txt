@@ -1,0 +1,26 @@
+Valid_Toaster
+
+Pokemon
+4 Charmander VIV-23
+1 Entei CEC-28
+3 Slugma VIV-27
+1 Talonflame V VIV-29
+1 Torchic DAA-22
+1 Torkoal V SSH-24
+4 Charmeleon VIV-24
+2 Magcargo VIV-28
+4 Charizard VIV-25
+
+Trainers
+2 Great Ball CPA-52
+2 Ordinary Rod SSH-171
+4 Leon VIV-154
+1 Bird Keeper SHF-66
+2 Pokemon Center Lady CPA-60
+2 Skyla SHF-72
+3 Hop CPA-53
+2 Poke Kid SHF-70
+3 Professor's Research CPA-62
+
+18 Fire Energy - Basic misc-Fire
+

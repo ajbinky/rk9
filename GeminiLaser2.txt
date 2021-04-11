@@ -1,0 +1,31 @@
+GeminiLaser2
+
+Pokemon
+1 Crobat V PR-SWSH098
+2 Galarian Zigzagoon SSH-117
+1 Eldegoss V RCL-176
+1 Dedenne GX UNB-195
+4 Jirachi TEU-99
+4 Dragapult V PR-SWSH096
+1 Mew UNB-76
+1 Mimikyu CEC-97
+1 Mimikyu DAA-81
+1 Mimikyu V BST-62
+3 Dragapult VMAX PR-SWSH097
+
+Trainers
+3 Switch SUM-132
+3 Pokemon Communication TEU-152
+2 Boss's Orders SHF-58
+2 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+2 Escape Rope BST-125
+4 Scoop Up Net RCL-165
+4 Professor's Research CPA-62
+4 Marnie CPA-56
+1 Great Catcher CEC-192
+2 Energy Spinner UNB-170
+
+5 Psychic Energy - Basic misc-Psychic
+4 Horror Psychic Energy - Special RCL-172
+

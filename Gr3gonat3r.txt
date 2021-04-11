@@ -1,0 +1,31 @@
+Gr3gonat3r
+
+Pokemon
+1 Cramorant V SSH-198
+1 Crobat V PR-SWSH098
+1 Heatran GX UNM-216
+1 Reshiram & Charizard GX PR-SM201
+3 Victini V SSH-25
+2 Vulpix SSH-22
+2 Ninetales TEU-16
+2 Victini VMAX BST-22
+1 Eldegoss V CPA-5
+2 Dedenne GX UNB-195
+1 Mewtwo & Mew GX PR-SM191
+
+Trainers
+2 Escape Rope BST-125
+2 Boss's Orders SHF-58
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+1 Marnie CPA-56
+4 Quick Ball SSH-179
+4 Pokemon Communication TEU-152
+2 Air Balloon SSH-156
+2 Fire Crystal UNB-173
+3 Professor's Research CPA-62
+2 Reset Stamp UNM-206
+2 Switch SUM-132
+
+12 Fire Energy - Basic misc-Fire
+

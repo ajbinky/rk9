@@ -1,0 +1,32 @@
+Paulyd84
+
+Pokemon
+1 Oranguru VIV-199
+1 Crobat V PR-SWSH098
+2 Arceus & Dialga & Palkia GX CEC-221
+1 Eldegoss V PR-SWSH084
+2 Dedenne GX UNB-195
+1 Aegislash V VIV-177
+1 Mawile GX UNM-227
+4 Zacian V SSH-211
+1 Zamazenta V PR-SWSH077
+
+Trainers
+4 Switch SUM-132
+4 Crushing Hammer SUM-115
+4 Metal Saucer SSH-170
+1 Great Catcher CEC-192
+2 Boss's Orders SHF-58
+2 Energy Spinner UNB-170
+4 Professor's Research CPA-62
+1 Giovanni's Exile UNB-174
+4 Quick Ball SSH-179
+1 Chaotic Swell CEC-187
+2 Tool Scrapper RCL-168
+2 Cherish Ball UNM-191
+4 Energy Switch SUM-117
+1 Reset Stamp UNM-206
+
+8 Metal Energy - Basic misc-Metal
+2 Water Energy - Basic misc-Water
+

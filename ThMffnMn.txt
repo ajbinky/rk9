@@ -1,0 +1,34 @@
+ThMffnMn
+
+Pokemon
+1 Absol TEU-88
+1 Crobat V DAA-182
+2 Dedenne GX UNB-195a
+2 Inteleon V RCL-180
+1 Inteleon VMAX RCL-195
+1 Inteleon VMAX RCL-50
+1 Milotic V RCL-43
+1 Milotic V RCL-179
+2 Snom SSH-63
+2 Frosmoth SSH-64
+
+Trainers
+4 Capacious Bucket RCL-156
+1 Energy Retrieval SSH-160
+3 Evolution Incense SSH-163
+1 Great Ball CPA-52
+3 Pokemon Communication TEU-152
+2 Quick Ball SSH-179
+2 Switch SUM-132
+3 Galar Mine RCL-160
+1 Bird Keeper SHF-66
+2 Boss's Orders SHF-58
+3 Marnie CPA-56
+1 Nessa VIV-157
+1 Telescopic Sight VIV-160
+3 Professor's Research CPA-62
+
+2 Capture Energy - Special RCL-171
+2 Wash Water Energy - Special VIV-165
+12 Water Energy - Basic misc-Water
+

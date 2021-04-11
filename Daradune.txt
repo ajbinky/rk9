@@ -1,0 +1,27 @@
+Daradune
+
+Pokemon
+1 Cramorant V SSH-155
+1 Dubwool V RCL-153
+1 Oranguru SSH-148
+1 Crobat V DAA-182
+4 Centiskorch V DAA-33
+4 Volcanion UNB-25
+3 Centiskorch VMAX DAA-34
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-57
+1 Marshadow UNB-81
+
+Trainers
+3 Marnie CPA-56
+4 Quick Ball SSH-179
+4 Pokemon Communication TEU-152
+3 Giant Hearth UNM-197
+3 Boss's Orders SHF-58
+4 Welder UNB-189
+3 Fire Crystal UNB-173
+2 Reset Stamp UNM-206
+3 Switch SUM-132
+
+12 Fire Energy - Basic misc-Fire
+

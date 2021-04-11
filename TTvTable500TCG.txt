@@ -1,0 +1,30 @@
+TTvTable500TCG
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-104
+2 Arceus & Dialga & Palkia GX CEC-156
+2 Dedenne GX UNB-195
+1 Aegislash V VIV-126
+1 Mawile GX UNM-141
+2 Zacian V PR-SWSH076
+1 Empoleon V BST-40
+
+Trainers
+2 Cherish Ball UNM-191
+4 Metal Saucer SSH-170
+3 Energy Spinner UNB-170
+2 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+4 Clay CEC-188
+2 Air Balloon SSH-156
+4 Turbo Patch DAA-172
+2 Professor's Research CPA-62
+2 Great Catcher CEC-192
+4 Energy Switch SUM-117
+3 Boss's Orders SHF-58
+3 Switch SUM-132
+
+3 Water Energy - Basic misc-Water
+7 Metal Energy - Basic misc-Metal
+

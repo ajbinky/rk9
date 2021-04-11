@@ -1,0 +1,31 @@
+DJBlog10
+
+Pokemon
+1 Oranguru SSH-148
+2 Dedenne GX UNB-195a
+1 Mawile GX UNM-246
+2 Arceus & Dialga & Palkia GX CEC-156
+3 Zacian V PR-SWSH018
+1 Zamazenta V PR-SWSH019
+1 Crobat V DAA-182
+
+Trainers
+2 Cherish Ball UNM-191
+4 Energy Switch SUM-117
+3 Switch SUM-132
+2 Turbo Patch DAA-172
+1 Tool Scrapper RCL-168
+1 Pokemon Catcher SSH-175
+2 Energy Spinner UNB-170
+3 Crushing Hammer SUM-115
+4 Metal Saucer SSH-170
+4 Quick Ball SSH-179
+4 Boss's Orders SHF-58
+4 Professor's Research CPA-62
+2 Marnie CPA-56
+2 Air Balloon SSH-156
+
+1 Aurora Energy - Special SSH-186
+2 Water Energy - Basic misc-Water
+8 Metal Energy - Basic misc-Metal
+

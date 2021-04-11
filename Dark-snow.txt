@@ -1,0 +1,29 @@
+Dark-snow
+
+Pokemon
+1 Cramorant V PR-SWSH086
+1 Crobat V DAA-182
+3 Blacephalon UNB-32
+1 Reshiram & Charizard GX PR-SM201
+3 Jirachi TEU-99
+1 Giratina UNM-86
+1 Marshadow UNB-81
+1 Mew PR-SM215
+1 Mewtwo PR-SM214
+1 Oricorio GX CEC-255
+
+Trainers
+4 Quick Ball SSH-179
+4 Switch SUM-132
+2 Energy Spinner UNB-170
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Fire Crystal UNB-173
+1 Boss's Orders SHF-58
+4 Scoop Up Net RCL-165
+3 Energy Retrieval SSH-160
+1 Reset Stamp UNM-206
+1 Ordinary Rod SSH-171
+
+15 Fire Energy - Basic misc-Fire
+

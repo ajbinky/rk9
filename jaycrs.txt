@@ -1,0 +1,33 @@
+jaycrs
+
+Pokemon
+1 Crobat V DAA-104
+1 Dedenne GX UNB-57
+2 Jirachi TEU-99
+3 Dragapult V RCL-92
+1 Mew PR-SM215
+1 Mewtwo PR-SM214
+1 Mimikyu CEC-97
+1 Mimikyu V BST-148
+3 Dragapult VMAX RCL-93
+1 Galarian Zigzagoon SHF-SV078
+
+Trainers
+4 Professor's Research CPA-62
+3 Marnie CPA-56
+2 Boss's Orders SHF-58
+4 Crushing Hammer SUM-115
+4 Quick Ball SSH-179
+4 Scoop Up Net RCL-165
+4 Pokemon Communication TEU-152
+2 Energy Spinner UNB-170
+2 Reset Stamp UNM-206
+1 Fan of Waves BST-127
+1 Escape Rope BST-125
+2 U-Turn Board UNM-211
+2 Exp. Share BST-126
+1 Chaotic Swell CEC-187
+
+7 Psychic Energy - Basic misc-Psychic
+2 Horror Psychic Energy - Special RCL-172
+

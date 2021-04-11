@@ -1,0 +1,29 @@
+EDDIEMNT06
+
+Pokemon
+1 Cramorant V SSH-155
+1 Crobat V DAA-104
+3 Blacephalon UNB-32
+1 Reshiram & Charizard GX PR-SM201
+1 Dedenne GX UNB-57
+4 Jirachi TEU-99
+1 Zacian V SSH-195
+1 Marshadow UNB-81
+1 Mewtwo PR-SM214
+1 Oricorio GX CEC-95
+
+Trainers
+1 Energy Retrieval SSH-160
+4 Switch SUM-132
+1 Boss's Orders SHF-58
+1 Ordinary Rod SSH-171
+4 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+1 Beast Bringer UNB-164
+1 Telescopic Sight VIV-160
+4 Fire Crystal UNB-173
+4 Scoop Up Net RCL-165
+
+16 Fire Energy - Basic misc-Fire
+

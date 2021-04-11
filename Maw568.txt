@@ -1,0 +1,30 @@
+Maw568
+
+Pokemon
+1 Cramorant V SSH-198
+1 Crobat V DAA-104
+3 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+4 Volcanion UNB-25
+3 Centiskorch VMAX DAA-34
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195
+
+Trainers
+1 Great Catcher CEC-192
+4 Pokemon Communication TEU-152
+3 Giant Hearth UNM-197
+2 Boss's Orders SHF-58
+1 Marnie CPA-56
+4 Welder UNB-189
+3 Pokegear 3.0 UNB-182
+4 Quick Ball SSH-179
+1 Tool Scrapper RCL-168
+1 Wondrous Labyrinth ♢ TEU-158
+2 Fire Crystal UNB-173
+4 Switch SUM-132
+2 Reset Stamp UNM-206
+1 Professor's Research CPA-62
+
+11 Fire Energy - Basic misc-Fire
+

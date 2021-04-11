@@ -1,0 +1,31 @@
+ChocoboyAC
+
+Pokemon
+2 Oranguru SSH-148
+1 Crobat V SHF-44
+3 Coalossal V VIV-98
+1 Galarian Sirfetch'd V PR-SWSH043
+3 Coalossal VMAX VIV-99
+2 Eldegoss V RCL-19
+1 Jirachi TEU-99
+
+Trainers
+3 Marnie CPA-56
+4 Crushing Hammer SUM-115
+3 Pokemon Communication TEU-152
+4 Professor's Research CPA-62
+1 Mallow & Lana CEC-198
+1 Chaotic Swell CEC-187
+2 Reset Stamp UNM-206
+1 Bird Keeper SHF-66
+4 Quick Ball SSH-179
+2 Air Balloon SSH-156
+3 Boss's Orders SHF-58
+1 Pokemon Catcher SSH-175
+1 Opal VIV-158
+4 Switch SUM-132
+
+8 Fighting Energy - Basic misc-Fighting
+1 Weakness Guard Energy - Special UNM-213
+4 Stone Fighting Energy - Special VIV-164
+

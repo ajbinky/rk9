@@ -1,0 +1,31 @@
+ninotreinador
+
+Pokemon
+1 Crobat V DAA-182
+1 Galarian Zigzagoon SSH-117
+3 Rapid Strike Urshifu V BST-152
+2 Rapid Strike Urshifu VMAX BST-88
+1 Celebi SHF-3
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-57
+3 Dragapult V RCL-183
+1 Mimikyu CEC-97
+3 Dragapult VMAX RCL-93
+1 Empoleon V BST-40
+
+Trainers
+4 Professor's Research CPA-62
+3 Boss's Orders SHF-58
+3 Marnie CPA-56
+4 Pokemon Communication TEU-152
+4 Quick Ball SSH-179
+3 Switch SUM-132
+2 Fan of Waves BST-127
+2 Exp. Share BST-126
+2 Air Balloon SSH-156
+1 Chaotic Swell CEC-187
+
+5 Psychic Energy - Basic misc-Psychic
+4 Rapid Strike Energy - Special BST-140
+4 Horror Psychic Energy - Special RCL-172
+

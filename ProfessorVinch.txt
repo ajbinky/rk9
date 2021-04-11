@@ -1,0 +1,32 @@
+ProfessorVinch
+
+Pokemon
+1 Crobat V DAA-182
+2 Arceus & Dialga & Palkia GX CEC-221
+1 Eldegoss V RCL-176
+2 Dedenne GX UNB-195
+1 Mawile GX UNM-227
+3 Zacian V SSH-195
+1 Mewtwo & Mew GX PR-SM191
+1 Empoleon V BST-146
+
+Trainers
+1 Great Catcher CEC-192
+2 Escape Rope BST-125
+4 Metal Saucer SSH-170
+4 Quick Ball SSH-179
+2 Air Balloon SSH-156
+3 Energy Switch SUM-117
+2 Energy Spinner UNB-170
+1 Marnie CPA-56
+1 Chaotic Swell CEC-187
+4 Boss's Orders SHF-58
+1 Rusted Sword SHF-62
+2 Switch SUM-132
+4 Professor's Research CPA-62
+2 Cherish Ball UNM-191
+4 Crushing Hammer SUM-115
+
+8 Metal Energy - Basic misc-Metal
+3 Water Energy - Basic misc-Water
+

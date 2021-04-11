@@ -1,0 +1,30 @@
+SORDG
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-104
+2 Arceus & Dialga & Palkia GX CEC-156
+1 Eldegoss V CPA-5
+2 Dedenne GX UNB-195
+1 Aegislash V VIV-126
+2 Jirachi TEU-99
+3 Zacian V SSH-138
+1 Zamazenta V SSH-139
+
+Trainers
+2 Cherish Ball UNM-191
+4 Metal Saucer SSH-170
+3 Energy Spinner UNB-170
+2 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+2 Escape Rope BST-125
+2 Air Balloon SSH-156
+4 Professor's Research CPA-62
+3 Switch SUM-132
+2 Marnie CPA-56
+3 Energy Switch SUM-117
+3 Boss's Orders SHF-58
+
+3 Water Energy - Basic misc-Water
+9 Metal Energy - Basic misc-Metal
+

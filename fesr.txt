@@ -1,0 +1,32 @@
+fesr
+
+Pokemon
+1 Galarian Zigzagoon SSH-117
+1 Tapu Koko ♢ TEU-51
+2 Jirachi VIV-119
+1 Zacian V PR-SWSH018
+1 Mew UNB-76
+1 Oricorio GX CEC-95
+1 Articuno TEU-32
+4 Kyogre SHF-21
+1 Phione CEC-57
+2 Snom SSH-63
+2 Frosmoth SSH-64
+
+Trainers
+2 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+3 Pokemon Communication TEU-152
+3 Air Balloon SSH-156
+2 Training Court RCL-169
+3 Telescopic Sight VIV-160
+4 Professor's Research CPA-62
+4 Turbo Patch DAA-172
+1 Reset Stamp UNM-206
+3 Rosa CEC-204
+1 Ordinary Rod SSH-171
+
+4 Lightning Energy - Basic misc-Lightning
+3 Metal Energy - Basic misc-Metal
+6 Water Energy - Basic misc-Water
+

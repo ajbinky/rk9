@@ -1,0 +1,27 @@
+scoobymon
+
+Pokemon
+3 Croagunk SSH-123
+4 Crobat V DAA-182
+4 Eternatus V DAA-116
+2 Galarian Slowbro V DAA-99
+1 Hoopa DAA-111
+3 Toxicroak SSH-124
+3 Eternatus VMAX DAA-117
+
+Trainers
+4 Switch SUM-132
+4 Professor's Research CPA-62
+2 Piers CPA-58
+4 Quick Ball SSH-179
+3 Boss's Orders SHF-58
+3 Dark City UNM-193
+2 Great Ball CPA-52
+4 Marnie CPA-56
+2 Pokemon Communication TEU-152
+1 Ordinary Rod SSH-171
+
+6 Darkness Energy - Basic misc-Darkness
+2 Capture Energy - Special RCL-171
+3 Hiding Darkness Energy - Special DAA-175
+

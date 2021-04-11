@@ -1,0 +1,31 @@
+PumpkinSpam
+
+Pokemon
+1 Crobat V DAA-182
+1 Eldegoss V RCL-176
+3 Boltund V RCL-67
+2 Dedenne GX UNB-57
+2 Pikachu & Zekrom GX TEU-33
+1 Raichu & Alolan Raichu GX UNM-220
+1 Tapu Koko ♢ TEU-51
+2 Mewtwo & Mew GX UNM-71
+
+Trainers
+4 Marnie CPA-56
+4 Quick Ball SSH-179
+4 Switch SUM-132
+3 Professor's Research CPA-62
+4 Crushing Hammer SUM-115
+3 Boss's Orders SHF-58
+1 Chaotic Swell CEC-187
+2 Reset Stamp UNM-206
+1 Team Yell Grunt CPA-67
+2 Big Charm SSH-158
+2 Air Balloon SSH-156
+2 Electromagnetic Radar UNB-169
+1 Tag Switch UNM-209
+1 Cherish Ball UNM-191
+
+10 Lightning Energy - Basic misc-Lightning
+3 Speed Lightning Energy - Special RCL-173
+

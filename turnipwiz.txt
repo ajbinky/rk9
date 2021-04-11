@@ -1,0 +1,29 @@
+turnipwiz
+
+Pokemon
+1 Cramorant V SSH-155
+1 Dubwool V RCL-153
+1 Crobat V DAA-182
+1 Galarian Zigzagoon SSH-117
+2 Reshiram & Charizard GX PR-SM201
+4 Volcanion UNB-25
+2 Dedenne GX UNB-57
+3 Jirachi TEU-99
+1 Mewtwo UNB-75
+1 Oricorio GX CEC-95
+1 Phione CEC-57
+
+Trainers
+2 Cherish Ball UNM-191
+2 Fire Crystal UNB-173
+2 Great Catcher CEC-192
+3 Pokemon Communication TEU-152
+4 Quick Ball SSH-179
+4 Scoop Up Net RCL-165
+4 Switch SUM-132
+3 Giant Hearth UNM-197
+1 Boss's Orders SHF-58
+4 Welder UNB-189
+
+13 Fire Energy - Basic misc-Fire
+

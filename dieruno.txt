@@ -1,0 +1,33 @@
+dieruno
+
+Pokemon
+2 Crobat V DAA-182
+2 Crobat V SHF-44
+1 Eternatus V PR-SWSH044
+2 Eternatus V PR-SWSH064
+1 Eternatus V DAA-116
+1 Eternatus VMAX PR-SWSH045
+1 Eternatus VMAX DAA-117
+1 Eternatus VMAX DAA-192
+1 Hoopa DAA-111
+1 Spiritomb UNB-112
+1 Yveltal TEU-95
+2 Galarian Zigzagoon SSH-117
+1 Absol TEU-88
+
+Trainers
+4 Switch SUM-132
+3 Pokemon Communication TEU-152
+4 Crushing Hammer SUM-115
+1 Tool Scrapper RCL-168
+1 Reset Stamp UNM-206
+4 Great Ball CPA-52
+4 Quick Ball SSH-179
+1 Chaotic Swell CEC-187
+4 Professor's Research CPA-62
+3 Boss's Orders SHF-58
+4 Marnie CPA-56
+
+2 Hiding Darkness Energy - Special DAA-175
+8 Darkness Energy - Basic misc-Darkness
+

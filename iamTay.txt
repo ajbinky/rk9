@@ -1,0 +1,28 @@
+iamTay
+
+Pokemon
+1 Crobat V PR-SWSH098
+1 Eldegoss V RCL-176
+1 Dedenne GX UNB-195
+4 Bronzor TEU-100
+3 Corviknight V BST-109
+2 Zacian V SSH-138
+3 Bronzong BST-102
+3 Corviknight VMAX BST-110
+1 Mew UNB-76
+
+Trainers
+2 Boss's Orders SHF-58
+4 Professor's Research CPA-62
+3 Marnie CPA-56
+4 Metal Saucer SSH-170
+4 Pokemon Communication TEU-152
+2 Cheryl BST-123
+1 Metal Goggles TEU-148
+4 Quick Ball SSH-179
+3 Switch SUM-132
+1 Reset Stamp UNM-206
+
+4 Coating Metal Energy - Special VIV-163
+9 Metal Energy - Basic misc-Metal
+

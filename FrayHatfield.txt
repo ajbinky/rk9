@@ -1,0 +1,32 @@
+FrayHatfield
+
+Pokemon
+2 Crobat V PR-SWSH098
+2 Rapid Strike Urshifu V PR-SWSH107
+2 Rapid Strike Urshifu VMAX BST-169
+1 Eldegoss V RCL-19
+3 Dragapult V PR-SWSH096
+1 Mew UNB-76
+3 Dragapult VMAX PR-SWSH097
+1 Empoleon V BST-40
+2 Remoraid BST-36
+2 Octillery BST-37
+
+Trainers
+2 Fan of Waves BST-127
+4 Quick Ball SSH-179
+4 Switch SUM-132
+1 Air Balloon SSH-156
+2 Escape Rope BST-125
+3 Pokemon Communication TEU-152
+3 Boss's Orders SHF-58
+1 Power Plant UNB-183
+3 Professor's Research CPA-62
+2 Marnie CPA-56
+1 Tool Scrapper RCL-168
+3 Korrina's Focus BST-128
+
+4 Psychic Energy - Basic misc-Psychic
+4 Rapid Strike Energy - Special BST-140
+4 Horror Psychic Energy - Special RCL-172
+

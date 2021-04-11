@@ -1,0 +1,29 @@
+hunnypot
+
+Pokemon
+1 Cramorant V SSH-198
+1 Crobat V DAA-104
+1 Blacephalon UNB-32
+1 Reshiram & Charizard GX UNB-20
+2 Victini V SSH-25
+1 Victini V BST-21
+2 Victini VMAX BST-22
+2 Dedenne GX UNB-195
+4 Jirachi TEU-99
+1 Mew UNB-76
+1 Mewtwo UNB-75
+
+Trainers
+2 Boss's Orders SHF-58
+4 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+1 Escape Rope BST-125
+3 Fire Crystal UNB-173
+4 Scoop Up Net RCL-165
+1 Reset Stamp UNM-206
+3 Switch SUM-132
+4 Pokemon Communication TEU-152
+
+13 Fire Energy - Basic misc-Fire
+

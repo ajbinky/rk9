@@ -1,0 +1,34 @@
+MudKipGang95
+
+Pokemon
+1 Snorlax VIV-131
+2 Swanna DAA-149
+1 Galarian Zigzagoon SSH-117
+4 Rowlet SHF-6
+1 Dartrix DAA-12
+3 Decidueye SHF-8
+2 Jirachi TEU-99
+1 Mew UNB-76
+1 Mewtwo UNB-75
+2 Ducklett CEC-59
+1 Manaphy SHF-24
+1 Phione CEC-57
+1 Tapu Fini UNM-53
+
+Trainers
+4 Bird Keeper SHF-66
+3 Rosa CEC-204
+2 Marnie CPA-56
+2 Professor's Research CPA-62
+1 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+4 Rare Candy SUM-129
+4 Scoop Up Net RCL-165
+3 Pokemon Communication TEU-152
+2 Ordinary Rod SSH-171
+1 U-Turn Board UNM-211
+
+3 Capture Energy - Special RCL-171
+3 Grass Energy - Basic misc-Grass
+3 Aromatic Grass Energy - Special VIV-162
+

@@ -1,0 +1,31 @@
+Sand_Ninja
+
+Pokemon
+1 Victini VMAX BST-165
+2 Victini VMAX BST-22
+3 Victini V SSH-25
+2 Dedenne GX UNB-195a
+2 Crobat V SHF-44
+2 Ninetales TEU-16
+3 Vulpix SSH-22
+1 Mew UNB-76
+1 Eldegoss V RCL-19
+1 Reshiram & Charizard GX UNB-20
+1 Heatran GX UNM-25
+
+Trainers
+1 Marnie CPA-56
+4 Welder UNB-189
+2 Escape Rope BST-125
+2 Switch SUM-132
+2 Air Balloon SSH-156
+3 Giant Hearth UNM-197
+4 Quick Ball SSH-179
+4 Pokemon Communication TEU-152
+3 Fire Crystal UNB-173
+2 Boss's Orders SHF-58
+1 Reset Stamp UNM-206
+2 Professor's Research CPA-62
+
+11 Fire Energy - Basic misc-Fire
+

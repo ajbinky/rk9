@@ -1,0 +1,29 @@
+kilominata
+
+Pokemon
+1 Crobat V DAA-182
+2 Arceus & Dialga & Palkia GX CEC-156
+2 Eldegoss V RCL-19
+2 Dedenne GX UNB-195
+2 Mawile GX UNM-246
+3 Zacian V SSH-195
+
+Trainers
+2 Cherish Ball UNM-191
+2 Viridian Forest TEU-156
+4 Metal Saucer SSH-170
+4 Switch SUM-132
+2 Rusted Sword SHF-62
+4 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+1 Big Charm SSH-158
+2 Air Balloon SSH-156
+2 Professor's Research CPA-62
+4 Marnie CPA-56
+1 Great Catcher CEC-192
+4 Energy Switch SUM-117
+1 Reset Stamp UNM-206
+
+3 Water Energy - Basic misc-Water
+8 Metal Energy - Basic misc-Metal
+

@@ -1,0 +1,30 @@
+Fantasio
+
+Pokemon
+1 Crobat V SHF-44
+4 Houndour BST-95
+4 Houndoom BST-96
+4 Single Strike Urshifu V BST-151
+3 Single Strike Urshifu VMAX BST-86
+1 Dedenne GX UNB-195
+1 Jirachi GX UNM-79
+1 Mew PR-SM215
+
+Trainers
+4 Quick Ball SSH-179
+3 Evolution Incense SSH-163
+4 Professor's Research CPA-62
+1 Tower of Darkness BST-137
+3 Pokemon Communication TEU-152
+1 Air Balloon SSH-156
+1 Escape Rope BST-125
+1 Single Strike Scroll of Scorn BST-133
+3 Marnie CPA-56
+4 Urn of Vitality BST-139
+3 Boss's Orders SHF-58
+3 Switch SUM-132
+
+3 Capture Energy - Special RCL-171
+3 Fighting Energy - Basic misc-Fighting
+4 Single Strike Energy - Special BST-141
+

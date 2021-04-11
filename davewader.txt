@@ -1,0 +1,36 @@
+davewader
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-182
+1 Arceus & Dialga & Palkia GX CEC-156
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195
+2 Aegislash V VIV-126
+3 Zacian V SSH-138
+2 Aegislash VMAX VIV-127
+
+Trainers
+1 Team Yell Grunt CPA-67
+1 Viridian Forest TEU-156
+1 Guzma & Hala CEC-193
+4 Metal Saucer SSH-170
+1 Big Charm SSH-158
+1 Rusted Sword SHF-62
+4 Switch SUM-132
+1 Mallow & Lana CEC-198
+1 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+2 Pokemon Communication TEU-152
+1 Air Balloon SSH-156
+1 Reset Stamp UNM-206
+3 Professor's Research CPA-62
+2 Energy Switch SUM-117
+1 Great Catcher CEC-192
+3 Tag Call CEC-206
+4 Boss's Orders SHF-58
+
+2 Water Energy - Basic misc-Water
+7 Metal Energy - Basic misc-Metal
+2 Aurora Energy - Special SSH-186
+

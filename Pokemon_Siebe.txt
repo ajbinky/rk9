@@ -1,0 +1,28 @@
+Pokemon_Siebe
+
+Pokemon
+2 Skwovet DAA-152
+2 Greedent RCL-152
+4 Cottonee UNM-143
+1 Dedenne GX UNB-195
+3 Jirachi VIV-119
+1 Oricorio GX CEC-95
+4 Whimsicott VIV-76
+
+Trainers
+3 Pokemon Communication TEU-152
+2 Ordinary Rod SSH-171
+1 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+3 Air Balloon SSH-156
+3 Lucky Egg SSH-167
+3 Professor's Research CPA-62
+4 Marnie CPA-56
+4 U-Turn Board UNM-211
+4 Great Ball CPA-52
+2 Boss's Orders SHF-58
+4 Island Challenge Amulet CEC-194
+
+2 Psychic Energy - Basic misc-Psychic
+4 Horror Psychic Energy - Special RCL-172
+

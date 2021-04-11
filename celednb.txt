@@ -1,0 +1,30 @@
+celednb
+
+Pokemon
+4 Snorlax VIV-131
+4 Rowlet DAA-11
+1 Dartrix DAA-12
+4 Decidueye DAA-13
+3 Sobble SSH-55
+3 Drizzile SSH-56
+2 Inteleon SSH-58
+
+Trainers
+2 Viridian Forest TEU-156
+3 Marnie CPA-56
+4 Evolution Incense SSH-163
+1 Ordinary Rod SSH-171
+4 Quick Ball SSH-179
+4 Rare Candy SUM-129
+4 Scoop Up Net RCL-165
+1 Rosa CEC-204
+2 Boss's Orders SHF-58
+1 Turffield Stadium CPA-68
+1 Cynthia & Caitlin CEC-189
+
+3 Capture Energy - Special RCL-171
+1 Grass Energy - Basic misc-Grass
+2 Water Energy - Basic misc-Water
+4 Aromatic Grass Energy - Special VIV-162
+2 Aurora Energy - Special SSH-186
+

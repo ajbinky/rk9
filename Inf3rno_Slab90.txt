@@ -1,0 +1,28 @@
+Inf3rno_Slab90
+
+Pokemon
+1 Eldegoss V PR-SWSH084
+3 Bronzor BST-101
+2 Corviknight V BST-156
+1 Lucario & Melmetal GX PR-SM192
+2 Zacian V PR-SWSH076
+2 Bronzong BST-102
+2 Corviknight VMAX BST-110
+1 Mew UNB-76
+
+Trainers
+2 Cheryl BST-123
+4 Quick Ball SSH-179
+4 Metal Saucer SSH-170
+4 Switch SUM-132
+4 Marnie CPA-56
+3 Metal Goggles TEU-148
+3 Pokegear 3.0 UNB-182
+2 Boss's Orders SHF-58
+1 Tool Scrapper RCL-168
+4 Professor's Research CPA-62
+2 Evolution Incense SSH-163
+
+9 Metal Energy - Basic misc-Metal
+4 Coating Metal Energy - Special VIV-163
+

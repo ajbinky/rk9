@@ -1,0 +1,28 @@
+RuthlessGlitch
+
+Pokemon
+1 Crobat V PR-SWSH098
+1 Reshiram & Charizard GX UNB-217
+3 Victini V SSH-25
+1 Victini V BST-21
+4 Victini VMAX BST-22
+1 Eldegoss V PR-SWSH084
+2 Dedenne GX UNB-195
+3 Jirachi TEU-99
+1 Marshadow UNB-81
+
+Trainers
+1 Cherish Ball UNM-191
+2 Fan of Waves BST-127
+4 Quick Ball SSH-179
+3 Giant Hearth UNM-197
+3 Boss's Orders SHF-58
+4 Welder UNB-189
+4 Switch SUM-132
+3 Pokemon Communication TEU-152
+2 Reset Stamp UNM-206
+2 Professor's Research CPA-62
+4 Scoop Up Net RCL-165
+
+11 Fire Energy - Basic misc-Fire
+

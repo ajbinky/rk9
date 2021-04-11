@@ -1,0 +1,25 @@
+BambuleBernd
+
+Pokemon
+2 Crobat V DAA-104
+2 Dedenne GX UNB-195
+1 Keldeo GX UNM-219
+3 Lapras V SSH-49
+3 Snom SSH-63
+2 Frosmoth SSH-64
+3 Lapras VMAX SSH-50
+
+Trainers
+4 Pokemon Communication TEU-152
+2 Training Court RCL-169
+4 Professor's Research CPA-62
+3 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+2 Air Balloon SSH-156
+3 Level Ball BST-129
+3 Marnie CPA-56
+4 Capacious Bucket RCL-156
+2 Switch SUM-132
+
+13 Water Energy - Basic misc-Water
+

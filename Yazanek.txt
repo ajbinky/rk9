@@ -1,0 +1,29 @@
+Yazanek
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-182
+1 Galarian Zigzagoon SSH-117
+1 Rowlet SHF-6
+1 Dedenne GX UNB-195
+1 Aegislash V VIV-126
+3 Jirachi TEU-99
+4 Zacian V PR-SWSH018
+1 Zamazenta V SSH-196
+1 Mewtwo PR-SM214
+
+Trainers
+3 Bird Keeper SHF-66
+4 Metal Saucer SSH-170
+3 Boss's Orders SHF-58
+1 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+2 Leon VIV-154
+3 Rusted Sword SHF-62
+4 Scoop Up Net RCL-165
+4 Professor's Research CPA-62
+4 Switch SUM-132
+1 Reset Stamp UNM-206
+
+12 Metal Energy - Basic misc-Metal
+

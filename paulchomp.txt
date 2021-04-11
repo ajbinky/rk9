@@ -1,0 +1,32 @@
+paulchomp
+
+Pokemon
+1 Crobat V DAA-104
+3 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+1 Reshiram & Charizard GX UNB-20
+1 Victini V BST-21
+2 Volcanion UNB-25
+3 Centiskorch VMAX DAA-34
+1 Victini VMAX BST-22
+1 Dedenne GX UNB-195
+
+Trainers
+2 Fan of Waves BST-127
+1 Evolution Incense SSH-163
+3 Giant Hearth UNM-197
+1 Pokemon Catcher SSH-175
+4 Welder UNB-189
+3 Pokegear 3.0 UNB-182
+4 Quick Ball SSH-179
+2 Big Charm SSH-158
+3 Pokemon Communication TEU-152
+1 Fire Crystal UNB-173
+1 Professor's Research CPA-62
+1 Reset Stamp UNM-206
+3 Boss's Orders SHF-58
+4 Switch SUM-132
+
+12 Fire Energy - Basic misc-Fire
+1 Heat Fire Energy - Special DAA-174
+

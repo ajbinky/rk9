@@ -1,0 +1,28 @@
+Aomigue
+
+Pokemon
+1 Dubwool V RCL-188
+1 Crobat V PR-SWSH098
+4 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+3 Volcanion PR-SM179
+3 Centiskorch VMAX DAA-34
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-57
+
+Trainers
+4 Pokemon Communication TEU-152
+3 Giant Hearth UNM-197
+2 Boss's Orders SHF-58
+1 Marnie CPA-56
+4 Welder UNB-189
+2 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+3 Fire Crystal UNB-173
+4 Switch SUM-132
+1 Mallow & Lana CEC-198
+2 Professor's Research CPA-62
+
+13 Fire Energy - Basic misc-Fire
+1 Heat Fire Energy - Special DAA-174
+

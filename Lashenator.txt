@@ -1,0 +1,32 @@
+Lashenator
+
+Pokemon
+1 Cramorant V SSH-198
+1 Snorlax VIV-131
+2 Crobat V DAA-104
+4 Centiskorch V DAA-33
+1 Heatran GX UNM-238
+2 Volcanion UNB-25
+3 Centiskorch VMAX DAA-34
+1 Dedenne GX UNB-195
+
+Trainers
+4 Quick Ball SSH-179
+1 Giant Hearth UNM-197
+2 Evolution Incense SSH-163
+2 Boss's Orders SHF-58
+1 Giant Hearth UNM-197
+1 Energy Spinner UNB-170
+1 Great Catcher CEC-192
+4 Welder UNB-189
+2 Big Charm SSH-158
+3 Pokemon Communication TEU-152
+1 Wondrous Labyrinth ♢ TEU-158
+3 Fire Crystal UNB-173
+1 Power Plant UNB-183
+4 Switch SUM-132
+2 Professor's Research CPA-62
+1 Mallow & Lana CEC-198
+
+12 Fire Energy - Basic misc-Fire
+

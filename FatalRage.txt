@@ -1,0 +1,30 @@
+FatalRage
+
+Pokemon
+1 Crobat V DAA-104
+3 Centiskorch V DAA-33
+1 Heatran GX UNM-25
+1 Talonflame V VIV-168
+1 Volcanion UNB-25
+2 Vulpix SSH-22
+2 Ninetales TEU-16
+3 Centiskorch VMAX DAA-34
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195
+
+Trainers
+2 Boss's Orders SHF-58
+2 Professor's Research CPA-62
+4 Quick Ball SSH-179
+2 Giant Hearth UNM-197
+1 Marnie CPA-56
+4 Welder UNB-189
+4 Pokegear 3.0 UNB-182
+3 Pokemon Communication TEU-152
+1 Wondrous Labyrinth ♢ TEU-158
+2 Fire Crystal UNB-173
+4 Switch SUM-132
+
+10 Fire Energy - Basic misc-Fire
+4 Heat Fire Energy - Special DAA-174
+

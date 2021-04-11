@@ -1,0 +1,29 @@
+Tinox24
+
+Pokemon
+1 Crobat V DAA-104
+3 Centiskorch V DAA-33
+4 Volcanion UNB-25
+2 Centiskorch VMAX DAA-34
+1 Dedenne GX UNB-57
+1 Jirachi TEU-99
+1 Marshadow UNB-81
+2 Sobble SSH-55
+2 Drizzile SSH-56
+1 Inteleon SSH-58
+
+Trainers
+1 Marnie CPA-56
+3 Evolution Incense SSH-163
+4 Giant Hearth UNM-197
+3 Boss's Orders SHF-58
+4 Welder UNB-189
+4 Quick Ball SSH-179
+4 Switch SUM-132
+1 Fire Crystal UNB-173
+1 Scoop Up Net RCL-165
+1 Great Catcher CEC-192
+4 Pokemon Communication TEU-152
+
+12 Fire Energy - Basic misc-Fire
+

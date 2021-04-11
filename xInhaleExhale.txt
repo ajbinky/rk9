@@ -1,0 +1,29 @@
+xInhaleExhale
+
+Pokemon
+2 Crobat V PR-SWSH098
+1 Galarian Zigzagoon SSH-117
+4 Rapid Strike Urshifu V BST-153
+3 Rapid Strike Urshifu VMAX BST-169
+1 Dedenne GX UNB-195
+4 Jirachi TEU-99
+1 Giratina UNM-86
+1 Jirachi GX UNM-79
+1 Mimikyu CEC-97
+
+Trainers
+2 Escape Rope BST-125
+3 Pokemon Communication TEU-152
+4 Quick Ball SSH-179
+4 Scoop Up Net RCL-165
+4 Switch SUM-132
+2 Martial Arts Dojo UNB-179
+3 Boss's Orders SHF-58
+4 Marnie CPA-56
+4 Professor's Research CPA-62
+2 Air Balloon SSH-156
+1 Great Catcher CEC-192
+
+4 Rapid Strike Energy - Special BST-140
+5 Fighting Energy - Basic misc-Fighting
+

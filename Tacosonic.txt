@@ -1,0 +1,33 @@
+Tacosonic
+
+Pokemon
+2 Mewtwo & Mew GX PR-SM191
+1 Mewtwo UNB-75
+1 Mew UNB-76
+4 Jirachi TEU-99
+1 Vikavolt V DAA-60
+1 Tapu Koko ♢ TEU-51
+2 Dedenne GX UNB-57
+1 Charizard GX PR-SM211
+1 Flareon GX PR-SM171
+1 Reshiram & Charizard GX PR-SM201
+1 Incineroar GX TEU-97
+2 Crobat V PR-SWSH098
+1 Cramorant V PR-SWSH086
+
+Trainers
+4 Cherish Ball UNM-191
+1 Escape Rope BST-125
+1 Great Catcher CEC-192
+4 Quick Ball SSH-179
+4 Scoop Up Net RCL-165
+3 Giant Hearth UNM-197
+2 Boss's Orders SHF-58
+4 Welder UNB-189
+1 Air Balloon SSH-156
+1 Big Charm SSH-158
+3 Switch SUM-132
+
+10 Fire Energy - Basic misc-Fire
+3 Lightning Energy - Basic misc-Lightning
+

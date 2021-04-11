@@ -1,0 +1,31 @@
+pkmnlvrlopez
+
+Pokemon
+1 Crobat V DAA-182
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-57
+4 Pikachu V VIV-43
+1 Pincurchin SSH-77
+1 Tapu Koko ♢ TEU-51
+4 Voltorb VIV-45
+2 Electrode VIV-46
+2 Pikachu VMAX VIV-44
+1 Phione CEC-57
+
+Trainers
+2 Vitality Band SSH-185
+1 Cherish Ball UNM-191
+4 Marnie CPA-56
+3 Pokemon Communication TEU-152
+2 Evolution Incense SSH-163
+1 Reset Stamp UNM-206
+2 Energy Switch SUM-117
+3 Quick Ball SSH-179
+4 Switch SUM-132
+2 Professor's Research CPA-62
+4 Boss's Orders SHF-58
+1 Ordinary Rod SSH-171
+
+8 Lightning Energy - Basic misc-Lightning
+4 Speed Lightning Energy - Special RCL-173
+

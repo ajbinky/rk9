@@ -1,0 +1,36 @@
+Hazulia Hazulia
+
+Pokemon
+1 Crobat V DAA-182
+1 Rapid Strike Urshifu V PR-SWSH107
+2 Rapid Strike Urshifu V BST-152
+3 Rapid Strike Urshifu VMAX BST-88
+1 Dedenne GX UNB-195
+2 Dragapult V RCL-183
+2 Dragapult VMAX RCL-93
+2 Remoraid BST-36
+2 Octillery BST-178
+
+Trainers
+2 Tower of Waters BST-138
+2 Escape Rope BST-125
+1 Fan of Waves BST-127
+3 Quick Ball SSH-179
+2 Cheryl BST-123
+2 Evolution Incense SSH-163
+3 Boss's Orders SHF-58
+1 Air Balloon SSH-156
+2 Korrina's Focus BST-128
+3 Marnie CPA-56
+1 Great Ball CPA-52
+2 Tool Scrapper RCL-168
+2 Switch SUM-132
+2 Telescopic Sight VIV-160
+1 Pokemon Communication TEU-152
+3 Professor's Research CPA-62
+
+2 Psychic Energy - Basic misc-Psychic
+4 Rapid Strike Energy - Special BST-140
+3 Horror Psychic Energy - Special RCL-172
+3 Fighting Energy - Basic misc-Fighting
+

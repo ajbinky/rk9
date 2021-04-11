@@ -1,0 +1,39 @@
+Tasha-Doodle
+
+Pokemon
+1 Crobat V DAA-104
+1 Incineroar GX TEU-97
+1 Dragonite GX UNM-229
+1 Eldegoss V RCL-19
+3 Grookey SSH-11
+1 Pheromosa & Buzzwole GX UNB-1
+2 Thwackey SSH-13
+1 Vileplume GX CEC-4
+1 Dedenne GX UNB-195
+1 Rillaboom SHF-13
+1 Rillaboom PR-SWSH006
+1 Rowlet & Alolan Exeggutor GX UNM-1
+1 Rowlet & Alolan Exeggutor GX UNM-214
+1 Mewtwo & Mew GX UNM-71
+1 Mewtwo & Mew GX PR-SM191
+
+Trainers
+2 Cherish Ball UNM-191
+1 Cynthia & Caitlin CEC-189
+2 Ordinary Rod SSH-171
+1 Mallow & Lana CEC-198
+2 Chaotic Swell CEC-187
+4 Quick Ball SSH-179
+2 Big Charm SSH-158
+1 Escape Rope BST-125
+2 Air Balloon SSH-156
+1 Switch SUM-132
+2 Guzma & Hala CEC-193
+3 Marnie CPA-56
+4 Tag Call CEC-206
+3 Boss's Orders SHF-58
+
+2 Capture Energy - Special RCL-171
+1 Weakness Guard Energy - Special UNM-213
+9 Grass Energy - Basic misc-Grass
+

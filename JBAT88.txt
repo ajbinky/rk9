@@ -1,0 +1,27 @@
+JBAT88
+
+Pokemon
+2 Crobat V DAA-104
+2 Dedenne GX UNB-195
+4 Inteleon V PR-SWSH016
+1 Keldeo GX UNM-47
+4 Snom SSH-63
+2 Frosmoth SSH-64
+3 Inteleon VMAX RCL-50
+
+Trainers
+2 Pokemon Communication TEU-152
+2 Training Court RCL-169
+4 Quick Ball SSH-179
+3 Telescopic Sight VIV-160
+2 Air Balloon SSH-156
+3 Professor's Research CPA-62
+4 Great Ball CPA-52
+4 Marnie CPA-56
+2 Capacious Bucket RCL-156
+3 Boss's Orders SHF-58
+2 Switch SUM-132
+1 Nessa VIV-157
+
+10 Water Energy - Basic misc-Water
+

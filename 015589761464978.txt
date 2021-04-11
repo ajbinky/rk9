@@ -1,0 +1,35 @@
+015589761464978
+
+Pokemon
+1 Celesteela GX UNB-163
+1 Oranguru SSH-148
+1 Crobat V DAA-104
+2 Dedenne GX UNB-195
+3 Scizor V DAA-118
+1 Cobalion GX TEU-106
+2 Jirachi VIV-119
+1 Zacian V SSH-138
+3 Scizor VMAX DAA-119
+1 Mimikyu DAA-81
+2 Manaphy SHF-24
+1 Phione CEC-57
+
+Trainers
+3 Metal Saucer SSH-170
+2 Crushing Hammer SUM-115
+2 Pokemon Communication TEU-152
+2 Pokegear 3.0 UNB-182
+1 Pal Pad UPR-132
+1 Marnie CPA-56
+3 Energy Spinner UNB-170
+3 Boss's Orders SHF-58
+1 Brock's Grit TEU-135
+3 Quick Ball SSH-179
+3 Air Balloon SSH-156
+2 Scoop Up Net RCL-165
+3 Jasmine TEU-145
+
+3 Coating Metal Energy - Special VIV-163
+8 Metal Energy - Basic misc-Metal
+1 Aurora Energy - Special SSH-186
+

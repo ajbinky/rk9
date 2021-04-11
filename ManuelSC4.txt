@@ -1,0 +1,30 @@
+ManuelSC4
+
+Pokemon
+1 Crobat V PR-SWSH098
+1 Eldegoss V RCL-19
+2 Boltund V RCL-67
+2 Dedenne GX UNB-195
+2 Pikachu & Zekrom GX PR-SM168
+1 Raichu & Alolan Raichu GX UNM-221
+1 Tapu Koko ♢ TEU-51
+2 Mewtwo & Mew GX PR-SM191
+
+Trainers
+1 Great Catcher CEC-192
+2 Cherish Ball UNM-191
+4 Professor's Research CPA-62
+1 Tag Switch UNM-209
+4 Marnie CPA-56
+4 Crushing Hammer SUM-115
+2 Chaotic Swell CEC-187
+2 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+2 Air Balloon SSH-156
+1 Electromagnetic Radar UNB-169
+3 Boss's Orders SHF-58
+4 Switch SUM-132
+
+4 Speed Lightning Energy - Special RCL-173
+10 Lightning Energy - Basic misc-Lightning
+

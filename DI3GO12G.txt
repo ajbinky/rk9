@@ -1,0 +1,32 @@
+DI3GO12G
+
+Pokemon
+1 Crobat V SHF-44
+2 Arceus & Dialga & Palkia GX CEC-156
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195a
+1 Mawile GX UNM-227
+3 Zacian V SSH-138
+1 Mewtwo & Mew GX PR-SM191
+1 Empoleon V BST-40
+
+Trainers
+1 Great Catcher CEC-192
+4 Metal Saucer SSH-170
+2 Cherish Ball UNM-191
+4 Switch SUM-132
+4 Energy Switch SUM-117
+1 Tool Scrapper RCL-168
+2 Energy Spinner UNB-170
+4 Quick Ball SSH-179
+1 Chaotic Swell CEC-187
+1 Skyla SHF-72
+4 Boss's Orders SHF-58
+4 Professor's Research CPA-62
+1 Big Charm SSH-158
+2 Air Balloon SSH-156
+2 Rusted Sword SHF-62
+
+8 Metal Energy - Basic misc-Metal
+3 Water Energy - Basic misc-Water
+

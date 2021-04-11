@@ -1,0 +1,29 @@
+srgx2013
+
+Pokemon
+1 Cramorant V SSH-155
+2 Crobat V DAA-182
+1 Heatran GX UNM-25
+4 Victini V SSH-25
+1 Volcanion UNB-25
+3 Victini VMAX BST-22
+1 Eldegoss V RCL-19
+1 Kricketune V BST-6
+2 Dedenne GX UNB-57
+
+Trainers
+2 Air Balloon SSH-156
+2 Pokemon Communication TEU-152
+3 Switch SUM-132
+3 Giant Hearth UNM-197
+3 Great Ball CPA-52
+3 Welder UNB-189
+4 Quick Ball SSH-179
+3 Escape Rope BST-125
+3 Professor's Research CPA-62
+4 Boss's Orders SHF-58
+2 Fan of Waves BST-127
+
+1 Heat Fire Energy - Special DAA-174
+11 Fire Energy - Basic misc-Fire
+

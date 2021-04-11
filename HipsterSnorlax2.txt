@@ -1,0 +1,27 @@
+HipsterSnorlax2
+
+Pokemon
+4 Jirachi PR-SM161
+2 Cramorant V PR-SWSH086
+2 Blacephalon UNB-32
+1 Galarian Zigzagoon SHF-SV078
+1 Mewtwo PR-SM214
+2 Dedenne GX UNB-57
+1 Crobat V PR-SWSH098
+1 Oricorio GX CEC-95
+2 Reshiram & Charizard GX PR-SM201
+
+Trainers
+4 Welder UNB-189
+4 Quick Ball SSH-179
+4 Switch SUM-132
+4 Scoop Up Net RCL-165
+4 Giant Hearth UNM-197
+1 Boss's Orders SHF-58
+4 Fire Crystal UNB-173
+2 Pokegear 3.0 UNB-182
+2 Cherish Ball UNM-191
+2 Pokemon Communication TEU-152
+
+13 Fire Energy - Basic misc-Fire
+

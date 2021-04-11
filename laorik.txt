@@ -1,0 +1,33 @@
+laorik
+
+Pokemon
+1 Crobat V DAA-104
+1 Incineroar GX TEU-97
+1 Naganadel GX UNM-160
+1 Galarian Sirfetch'd V PR-SWSH043
+1 Reshiram & Charizard GX UNB-20
+1 Charizard GX HIF-9
+1 Eldegoss V RCL-19
+1 Vileplume GX CEC-4
+3 Dedenne GX UNB-195
+1 Gengar & Mimikyu GX TEU-53
+1 Indeedee V SSH-91
+1 Jirachi GX UNM-79
+3 Mewtwo & Mew GX UNM-71
+
+Trainers
+4 Cherish Ball UNM-191
+2 Fan of Waves BST-127
+3 Pokegear 3.0 UNB-182
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+2 Reset Stamp UNM-206
+3 Quick Ball SSH-179
+4 Switch SUM-132
+1 Air Balloon SSH-156
+2 Boss's Orders SHF-58
+1 Big Charm SSH-158
+
+4 Aurora Energy - Special SSH-186
+10 Fire Energy - Basic misc-Fire
+

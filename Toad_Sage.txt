@@ -1,0 +1,31 @@
+Toad_Sage
+
+Pokemon
+1 Oranguru SSH-148
+1 Crobat V DAA-104
+3 Deino DAA-108
+1 Greninja & Zoroark GX UNB-107
+1 Guzzlord CEC-136
+1 Hoopa GX TEU-96
+1 Mega Sableye & Tyranitar GX UNM-126
+1 Umbreon & Darkrai GX UNM-125
+3 Hydreigon DAA-110
+2 Dedenne GX UNB-57
+2 Mewtwo & Mew GX PR-SM191
+
+Trainers
+2 Cherish Ball UNM-191
+2 Viridian Forest TEU-156
+2 Energy Retrieval SSH-160
+3 Pokemon Communication TEU-152
+4 Quick Ball SSH-179
+4 Rare Candy SUM-129
+1 Air Balloon SSH-156
+4 Professor's Research CPA-62
+4 Marnie CPA-56
+2 Boss's Orders SHF-58
+2 Switch SUM-132
+1 Big Charm SSH-158
+
+12 Darkness Energy - Basic misc-Darkness
+

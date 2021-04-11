@@ -1,0 +1,32 @@
+sniffums
+
+Pokemon
+1 Crobat V DAA-104
+1 Galarian Zigzagoon SSH-117
+3 Centiskorch V DAA-33
+1 Heatran GX UNM-216
+2 Volcanion PR-SM179
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195
+3 Jirachi TEU-99
+1 Giratina UNM-86
+1 Phione CEC-57
+3 Centiskorch VMAX DAA-34
+
+Trainers
+4 Switch SUM-132
+3 Giant Hearth UNM-197
+1 Mallow & Lana CEC-198
+4 Welder UNB-189
+1 Skyla SHF-72
+4 Quick Ball SSH-179
+1 Wondrous Labyrinth ♢ TEU-158
+2 Fire Crystal UNB-173
+4 Scoop Up Net RCL-165
+1 Great Catcher CEC-192
+3 Pokemon Communication TEU-152
+1 Tool Scrapper RCL-168
+2 Boss's Orders SHF-58
+
+10 Fire Energy - Basic misc-Fire
+
