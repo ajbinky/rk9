@@ -1,0 +1,32 @@
+leakycustom115
+A ton tour (6235275/FR)
+
+Pokemon
+1 Oranguru SSH-148
+3 Snorlax VIV-131
+1 Galarian Zigzagoon SSH-117
+4 Charmander VIV-23
+2 Charmeleon VIV-24
+4 Charizard VIV-25
+1 Mewtwo UNB-75
+1 Oricorio GX CEC-95
+
+Trainers
+4 Rare Candy SUM-129
+4 Leon VIV-154
+3 Pokemon Communication TEU-152
+1 Evolution Incense SSH-163
+1 Ordinary Rod SSH-171
+2 Giant Hearth UNM-197
+1 Pokemon Catcher SSH-175
+4 Welder UNB-189
+2 Pokegear 3.0 UNB-182
+4 Quick Ball SSH-179
+1 Fire Crystal UNB-173
+3 Scoop Up Net RCL-165
+1 Professor's Research CPA-62
+2 Boss's Orders SHF-58
+2 Switch SUM-132
+
+8 Fire Energy - Basic misc-Fire
+

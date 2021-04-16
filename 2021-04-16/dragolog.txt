@@ -1,0 +1,25 @@
+dragolog
+Shark Games (6003207/ES)
+
+Pokemon
+1 Crobat V DAA-182
+1 Heatran GX UNM-25
+4 Volcanion PR-SM179
+3 Centiskorch VMAX DAA-34
+3 Centiskorch V DAA-33
+1 Centiskorch V DAA-179
+2 Dedenne GX UNB-57
+
+Trainers
+4 Crushing Hammer SUM-115
+3 Giant Hearth UNM-197
+4 Switch SUM-132
+4 Welder UNB-189
+4 Boss's Orders SHF-58
+2 Reset Stamp UNM-206
+4 Quick Ball SSH-179
+4 Pokegear 3.0 UNB-182
+4 Pokemon Communication TEU-152
+
+12 Fire Energy - Basic misc-Fire
+

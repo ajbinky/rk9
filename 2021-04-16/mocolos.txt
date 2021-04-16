@@ -1,0 +1,30 @@
+mocolos
+Padis (6234631/ES)
+
+Pokemon
+1 Crobat V DAA-104
+2 Arceus & Dialga & Palkia GX CEC-156
+2 Dedenne GX UNB-195
+1 Jirachi TEU-99
+3 Zacian V SSH-138
+1 Zamazenta V SSH-212
+
+Trainers
+2 Cherish Ball UNM-191
+4 Marnie CPA-56
+4 Metal Saucer SSH-170
+4 Quick Ball SSH-179
+2 Crushing Hammer SUM-115
+3 Professor's Research CPA-62
+4 Boss's Orders SHF-58
+2 Chaotic Swell CEC-187
+2 Big Charm SSH-158
+4 Switch SUM-132
+2 Reset Stamp UNM-206
+2 Energy Switch SUM-117
+2 Cape of Toughness VIV-200
+
+2 Water Energy - Basic misc-Water
+7 Metal Energy - Basic misc-Metal
+4 Aurora Energy - Special SSH-186
+

@@ -1,0 +1,28 @@
+feliphardilla
+Mi Ardillosa Tienda (6233588/MX)
+
+Pokemon
+1 Cramorant V SSH-155
+1 Crobat V DAA-104
+1 Galarian Zigzagoon SSH-117
+3 Blacephalon UNB-32
+1 Dedenne GX UNB-57
+4 Jirachi TEU-99
+1 Zacian V SSH-138
+1 Marshadow UNB-81
+1 Mewtwo PR-SM214
+1 Oricorio GX CEC-217
+
+Trainers
+4 Switch SUM-132
+4 Giant Hearth UNM-197
+1 Boss's Orders SHF-58
+4 Welder UNB-189
+2 Great Ball CPA-52
+4 Quick Ball SSH-179
+4 Fire Crystal UNB-173
+4 Scoop Up Net RCL-165
+2 Energy Retrieval SSH-160
+
+16 Fire Energy - Basic misc-Fire
+

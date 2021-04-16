@@ -1,0 +1,31 @@
+BookerNL
+Animere (6233297/NL)
+
+Pokemon
+4 Minccino SSH-145
+4 Cinccino SSH-147
+4 Drilbur CEC-114
+4 Excadrill CEC-246
+1 Dedenne GX UNB-57
+1 Mew UNB-76
+1 Mimikyu DAA-81
+1 Phione CEC-57
+
+Trainers
+1 Great Catcher CEC-192
+4 Great Ball CPA-52
+2 Pokemon Communication TEU-152
+2 Ordinary Rod SSH-171
+1 U-Turn Board UNM-211
+2 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+1 Brock's Grit TEU-135
+4 Level Ball BST-129
+2 Pal Pad UPR-132
+4 Professor's Research CPA-62
+4 Marnie CPA-56
+1 Tool Scrapper RCL-168
+2 Martial Arts Dojo UNB-179
+
+6 Fighting Energy - Basic misc-Fighting
+

@@ -1,0 +1,35 @@
+Grillorinho
+SpielFilmMusik (6234808/DE)
+
+Pokemon
+1 Crobat V DAA-104
+1 Kricketune V BST-6
+1 Mew UNB-76
+1 Mimikyu CEC-97
+4 Inteleon V RCL-49
+1 Sobble PR-SWSH073
+1 Sobble SSH-54
+1 Sobble SSH-55
+3 Snom SHF-29
+2 Frosmoth SHF-30
+3 Drizzile SSH-56
+3 Inteleon VMAX RCL-50
+1 Inteleon SHF-SV027
+1 Inteleon SSH-58
+
+Trainers
+1 Team Yell Grunt CPA-67
+2 Evolution Incense SSH-163
+1 Phoebe BST-130
+2 Marnie CPA-56
+4 Quick Ball SSH-179
+2 Boss's Orders SHF-58
+1 Pokemon Communication TEU-152
+4 Air Balloon SSH-156
+4 Level Ball BST-129
+4 Professor's Research CPA-62
+2 Capacious Bucket RCL-156
+
+1 Capture Energy - Special RCL-171
+8 Water Energy - Basic misc-Water
+

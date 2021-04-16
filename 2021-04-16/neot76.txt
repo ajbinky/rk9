@@ -1,0 +1,33 @@
+neot76
+Retro Zone Arcade (3793209/US)
+
+Pokemon
+2 Snorlax VIV-131
+1 Charmander TEU-12
+3 Charmander VIV-23
+1 Salandit UNM-33
+1 Salandit SSH-27
+1 Charmeleon HIF-8
+2 Salazzle UNB-31
+1 Charizard TEU-14
+3 Charizard VIV-25
+
+Trainers
+2 Quick Ball SSH-179
+2 Pokemon Communication TEU-152
+3 Evolution Incense SSH-163
+3 Ordinary Rod SSH-171
+1 Giant Hearth UNM-197
+4 Leon VIV-154
+4 Welder UNB-189
+2 Fire Crystal UNB-173
+3 Switch SUM-132
+1 Rosa CEC-204
+2 Pokegear 3.0 UNB-182
+1 Professor's Research CPA-62
+4 Rare Candy SUM-129
+1 Great Ball CPA-52
+2 Boss's Orders SHF-58
+
+10 Fire Energy - Basic misc-Fire
+

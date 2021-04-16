@@ -1,0 +1,32 @@
+jax1303
+Board Beans (6235272/GB)
+
+Pokemon
+1 Eternatus V PR-SWSH044
+3 Eternatus V DAA-116
+1 Eternatus VMAX PR-SWSH045
+2 Eternatus VMAX DAA-117
+4 Crobat V DAA-104
+1 Hoopa DAA-111
+1 Hoopa UNM-140
+4 Galarian Zigzagoon SSH-117
+
+Trainers
+3 Great Ball CPA-52
+4 Quick Ball SSH-179
+1 Ordinary Rod SSH-171
+1 Pokemon Communication TEU-152
+4 Scoop Up Net RCL-165
+3 Switch SUM-132
+1 Chaotic Swell CEC-187
+3 Boss's Orders SHF-58
+2 Mallow & Lana CEC-198
+3 Marnie CPA-56
+2 Piers CPA-58
+3 Professor's Research CPA-62
+1 U-Turn Board UNM-211
+
+3 Hiding Darkness Energy - Special DAA-175
+4 Weakness Guard Energy - Special UNM-213
+5 Darkness Energy - Basic misc-Darkness
+

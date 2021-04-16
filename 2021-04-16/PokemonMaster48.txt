@@ -1,0 +1,31 @@
+PokemonMaster48
+Viridian Forest LTD (1592904/GB)
+
+Pokemon
+1 Dubwool V PR-SWSH049
+1 Crobat V DAA-104
+1 Galarian Zigzagoon SSH-117
+1 Heatran GX UNM-216
+1 Reshiram & Charizard GX UNB-20
+1 Talonflame V VIV-29
+1 Victini V SSH-25
+2 Volcanion UNB-25
+1 Mew UNB-76
+1 Phione CEC-57
+3 Dedenne GX UNB-195a
+
+Trainers
+2 Boss's Orders SHF-58
+2 Cherish Ball UNM-191
+4 Pokemon Catcher SSH-175
+2 Great Ball CPA-52
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Judge Whistle TEU-146
+4 Quick Ball SSH-179
+4 Switch SUM-132
+2 Fire Crystal UNB-173
+4 Pokegear 3.0 UNB-182
+
+11 Fire Energy - Basic misc-Fire
+

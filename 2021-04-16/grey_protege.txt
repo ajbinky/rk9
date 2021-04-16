@@ -1,0 +1,28 @@
+grey_protege
+The Griffin's Rest (6234208/US)
+
+Pokemon
+1 Oranguru VIV-199
+1 Crobat V DAA-104
+1 Dedenne GX UNB-195
+2 Jirachi TEU-99
+4 Zacian V PR-SWSH076
+1 Mewtwo UNB-75
+2 Galarian Zigzagoon SSH-117
+1 Rowlet DAA-11
+2 Galarian Meowth RCL-126
+2 Galarian Perrserker SSH-128
+
+Trainers
+2 Leon VIV-154
+4 Metal Saucer SSH-170
+3 Bird Keeper SHF-66
+4 Quick Ball SSH-179
+3 Rusted Sword SHF-62
+3 Boss's Orders SHF-58
+4 Scoop Up Net RCL-165
+4 Professor's Research CPA-62
+4 Switch SUM-132
+
+12 Metal Energy - Basic misc-Metal
+

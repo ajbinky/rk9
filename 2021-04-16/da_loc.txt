@@ -1,0 +1,31 @@
+da_loc
+Hobbytown (642913/US)
+
+Pokemon
+4 Crobat V DAA-104
+4 Eternatus V PR-SWSH044
+4 Galarian Zigzagoon SSH-117
+1 Hoopa DAA-111
+1 Spiritomb UNB-112
+1 Yveltal TEU-95
+3 Eternatus VMAX PR-SWSH045
+
+Trainers
+1 Power Plant UNB-183
+1 Turbo Patch DAA-172
+3 Boss's Orders SHF-58
+3 Crushing Hammer SUM-115
+3 Switch SUM-132
+3 Marnie CPA-56
+1 Escape Rope BST-125
+2 Pokemon Communication TEU-152
+1 Black Market ♢ TEU-134
+1 Piers CPA-58
+4 Professor's Research CPA-62
+4 Quick Ball SSH-179
+4 Great Ball CPA-52
+1 Exp. Share BST-126
+
+8 Darkness Energy - Basic misc-Darkness
+2 Weakness Guard Energy - Special UNM-213
+

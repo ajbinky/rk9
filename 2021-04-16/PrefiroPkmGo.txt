@@ -1,0 +1,28 @@
+PrefiroPkmGo
+LojaBat (6163209/BR)
+
+Pokemon
+1 Absol TEU-88
+4 Crobat V PR-SWSH098
+4 Eternatus V PR-SWSH044
+4 Galarian Zigzagoon SSH-117
+3 Eternatus VMAX DAA-192
+2 Koffing SHF-SV076
+2 Galarian Weezing SHF-SV077
+
+Trainers
+2 Switch SUM-132
+4 Quick Ball SSH-179
+3 Boss's Orders SHF-58
+3 Great Ball CPA-52
+2 Dark City UNM-193
+3 Pokemon Communication TEU-152
+2 Piers CPA-58
+4 Professor's Research CPA-62
+4 Scoop Up Net RCL-165
+2 Marnie CPA-56
+
+5 Darkness Energy - Basic misc-Darkness
+2 Capture Energy - Special RCL-171
+4 Hiding Darkness Energy - Special DAA-175
+

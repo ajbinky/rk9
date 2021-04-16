@@ -1,0 +1,30 @@
+HaxmanDS
+La Maquina del Temps (3203213/ES)
+
+Pokemon
+1 Crobat V DAA-104
+1 Heatran GX UNM-25
+1 Reshiram & Charizard GX UNB-20
+2 Victini V SSH-25
+2 Victini V BST-21
+1 Volcanion UNB-25
+3 Victini VMAX BST-22
+1 Kricketune V BST-6
+2 Dedenne GX UNB-57
+1 Phione CEC-57
+
+Trainers
+2 Fan of Waves BST-127
+3 Pokemon Communication TEU-152
+3 Giant Hearth UNM-197
+4 Welder UNB-189
+4 Quick Ball SSH-179
+3 Escape Rope BST-125
+2 Air Balloon SSH-156
+3 Professor's Research CPA-62
+2 Marnie CPA-56
+4 Boss's Orders SHF-58
+3 Switch SUM-132
+
+12 Fire Energy - Basic misc-Fire
+

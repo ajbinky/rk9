@@ -1,0 +1,30 @@
+CecilSeed
+Table Top Warfare (6233384/AU)
+
+Pokemon
+1 Cramorant V SSH-155
+1 Oranguru SSH-148
+2 Dedenne GX UNB-195
+3 Lapras V SSH-49
+3 Snom SSH-63
+1 Suicune DAA-37
+1 Wailord V CPA-13
+2 Frosmoth SSH-64
+2 Lapras VMAX SSH-50
+
+Trainers
+3 Nessa VIV-157
+3 Pokemon Communication TEU-152
+4 Quick Ball SSH-179
+1 Big Charm SSH-158
+1 Tool Scrapper RCL-168
+2 Glimwood Tangle DAA-162
+2 Air Balloon SSH-156
+3 Professor's Research CPA-62
+3 Marnie CPA-56
+3 Capacious Bucket RCL-156
+2 Boss's Orders SHF-58
+3 Switch SUM-132
+
+14 Water Energy - Basic misc-Water
+

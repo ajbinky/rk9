@@ -1,0 +1,35 @@
+Didine42
+La Taverne du Gobelin Farci (4153203/FR)
+
+Pokemon
+1 Cramorant V SSH-198
+1 Crobat V DAA-182
+1 Crobat V DAA-104
+1 Galarian Zigzagoon SSH-117
+1 Heatran GX UNM-238
+3 Centiskorch V DAA-33
+1 Centiskorch VMAX DAA-34
+2 Centiskorch VMAX DAA-191
+1 Volcanion PR-SM179
+1 Volcanion UNB-25
+2 Dedenne GX UNB-195a
+1 Jirachi PR-SM161
+2 Jirachi TEU-99
+1 Phione PR-SM220
+1 Eldegoss V PR-SWSH084
+
+Trainers
+4 Scoop Up Net RCL-165
+4 Welder UNB-189
+1 Great Catcher CEC-192
+3 Pokemon Communication TEU-152
+2 Fire Crystal UNB-173
+4 Switch SUM-132
+4 Quick Ball SSH-179
+3 Giant Hearth UNM-197
+2 Boss's Orders SHF-58
+1 Bird Keeper SHF-66
+1 Reset Stamp UNM-206
+
+11 Fire Energy - Basic misc-Fire
+

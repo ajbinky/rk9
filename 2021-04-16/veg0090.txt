@@ -1,0 +1,35 @@
+veg0090
+Mythos Pokemon (6234017/BR)
+
+Pokemon
+3 Minccino SSH-145
+1 Snorlax VIV-131
+3 Cinccino SSH-147
+1 Galarian Zigzagoon SSH-117
+3 Rapid Strike Urshifu V BST-87
+3 Rapid Strike Urshifu VMAX BST-88
+1 Dedenne GX UNB-57
+1 Giratina UNM-86
+1 Jirachi GX UNM-79
+1 Mew UNB-76
+1 Mewtwo UNB-75
+1 Mimikyu CEC-97
+
+Trainers
+3 Marnie CPA-56
+3 Pokemon Communication TEU-152
+1 Karate Belt UNM-201
+1 Cheryl BST-123
+1 Phoebe BST-130
+2 Reset Stamp UNM-206
+3 Bird Keeper SHF-66
+4 Quick Ball SSH-179
+2 Air Balloon SSH-156
+2 Boss's Orders SHF-58
+4 Scoop Up Net RCL-165
+4 Level Ball BST-129
+
+2 Fighting Energy - Basic misc-Fighting
+4 Capture Energy - Special RCL-171
+4 Rapid Strike Energy - Special BST-140
+

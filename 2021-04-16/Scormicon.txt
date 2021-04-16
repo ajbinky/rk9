@@ -1,0 +1,30 @@
+Scormicon
+Avalon Game Arena (108924/CR)
+
+Pokemon
+1 Cramorant V SSH-155
+1 Dubwool V RCL-153
+4 Rolycoly RCL-105
+3 Sandaconda V RCL-108
+1 Carkol RCL-106
+3 Coalossal RCL-107
+1 Ninetales V RCL-26
+1 Eldegoss V RCL-19
+2 Dedenne GX UNB-195
+1 Phione CEC-57
+
+Trainers
+2 Viridian Forest TEU-156
+4 Cape of Toughness VIV-200
+4 Rare Candy SUM-129
+2 Boss's Orders SHF-58
+4 Quick Ball SSH-179
+1 Tool Scrapper RCL-168
+4 Professor's Research CPA-62
+4 Switch SUM-132
+1 Great Catcher CEC-192
+4 Opal VIV-158
+
+4 Fire Energy - Basic misc-Fire
+8 Fighting Energy - Basic misc-Fighting
+
